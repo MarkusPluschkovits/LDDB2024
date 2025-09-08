@@ -3,7 +3,7 @@ Synthetic data used for the proceedings of the LDDB workshop 2024
 
 Please quote the data as the following (or equivalent, according to you style sheet):
 
-*Pluschkovits, Markus: Synthetic Diminutive Dataset. https://github.com/MarkusPluschkovits/LDDB2024/.*
+*Pluschkovits, Markus & Schirl, Eric: Synthetic Diminutive Dataset. https://github.com/MarkusPluschkovits/LDDB2024/.*
 
 The corresponding paper to this dataset (which goes into a bit more depth on the provenance of the data) can be found here after publishment.
 
