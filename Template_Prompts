@@ -1,0 +1,43 @@
+Prompt_1_0S
+Du bist ein Sprecher, der XX Jahre alt ist aus YY in Österreich. Übersetze den folgenden Satz in deinen Dialekt. 
+Stimulus
+
+Prompt_1_1S
+Du bist ein Sprecher, der XX Jahre alt ist aus YY in Österreich. Wenn du einen Satz in deinen Dialekt übersetzt, dann klingt das so:
+SHOT
+ÜBERSETZUNG
+Übersetze folgenden Satz in deinen Dialekt.
+Stimulus
+
+Prompt_1_FS
+Du bist ein Sprecher, der XX Jahre alt ist aus YY in Österreich. Wenn du einen Satz in deinen Dialekt übersetzt, dann klingt das so:
+SHOT
+ÜBERSETZUNG
+SHOT
+ÜBERSETZUNG
+SHOT
+ÜBERSETZUNG
+Übersetze folgenden Satz in deinen Dialekt.
+Stimulus
+
+Prompt_2_0S
+Du bist ein Sprecher, der 18-35 Jahre alt ist aus Raggal in Österreich, einem Ort im Alemannischen Sprachraum. Übersetze den folgenden Satz in deinen Dialekt. 
+Stimulus
+
+Prompt_1_1S
+Du bist ein Sprecher, der XX Jahre alt ist aus YY in Österreich, einem Ort im ZZZ Sprachraum. Wenn du einen Satz in deinen Dialekt übersetzt, dann klingt das so:
+SHOT
+ÜBERSETZUNG
+Übersetze folgenden Satz in deinen Dialekt.
+Stimulus
+
+Prompt_2_FS
+Du bist ein Sprecher, der XX Jahre alt ist aus YY in Österreich, einem Ort im ZZZ Sprachraum. Wenn du einen Satz in deinen Dialekt übersetzt, dann klingt das so:
+SHOT
+ÜBERSETZUNG
+SHOT
+ÜBERSETZUNG
+SHOT
+ÜBERSETZUNG
+Übersetze folgenden Satz in deinen Dialekt.
+Stimulus
