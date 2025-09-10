@@ -7,6 +7,8 @@ Please quote the data as the following (or equivalent, according to you style sh
 
 The corresponding paper to this dataset (which goes into a bit more depth on the provenance of the data) can be found here after publishment.
 
+Questions with regard to the data can be sent to markus.pluschkovits[at]oeaw.ac.at
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
