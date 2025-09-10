@@ -1,0 +1,738 @@
+﻿ID;Dialektregion;WS;AgeGroup;Spalte2;Result;Annotation;Source
+1;Westmittelbairisch;23;alt;_0S;„Hintn unser’m Haus steh’n drei schene Apfelbäumchen mit rotn Äpfelchen.“;chen;Synthetic
+2;Westmittelbairisch;23;alt;_0S;„Hintn unser’m Haus steh’n drei schene Apfelbäumchen mit rotn Äpfelchen.“;chen;Synthetic
+3;Westmittelbairisch;23;alt;_DR_0S;In meiner Sprache aus Taufkirchen an der Pram würde das so klingen: „Hinter unserm Haus stehn drei schöne Apfelbäumchen mit roten Äpfelchen.“;chen;Synthetic
+4;Westmittelbairisch;23;alt;_DR_0S;In meiner Sprache aus Taufkirchen an der Pram würde das so klingen: „Hinter unserm Haus stehn drei schöne Apfelbäumchen mit roten Äpfelchen.“;chen;Synthetic
+5;Westmittelbairisch;23;alt;_1S;Hinter unsarn Haus steh'n drei schene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+6;Westmittelbairisch;23;alt;_1S;Hinter unsarn Haus steh'n drei schene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+7;Westmittelbairisch;23;alt;_DR_1S;Hinder unsrem Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+8;Westmittelbairisch;23;alt;_DR_1S;Hinder unsrem Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+9;Westmittelbairisch;23;alt;_FS;Hinter unserm Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+10;Westmittelbairisch;23;alt;_FS;Hinter unserm Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+11;Westmittelbairisch;23;alt;_DR_FS;Hinter unserm Haus steh'n drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+12;Westmittelbairisch;23;alt;_DR_FS;Hinter unserm Haus steh'n drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+13;Westmittelbairisch;23;jung;_0S;„Hinter unser’m Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.“;chen;Synthetic
+14;Westmittelbairisch;23;jung;_0S;„Hinter unser’m Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.“;chen;Synthetic
+15;Westmittelbairisch;23;jung;_DR_0S;"In Westmittelbairisch würde das so klingen:
+
+""Hinter unserm Haus steh'n drei scheene Apfelbäumli mit rotn Äpfel.""";li;Synthetic
+16;Westmittelbairisch;23;jung;_DR_0S;"In Westmittelbairisch würde das so klingen:
+
+""Hinter unserm Haus steh'n drei scheene Apfelbäumli mit rotn Äpfel.""";0;Synthetic
+17;Westmittelbairisch;23;jung;_1S;Hinter unserm Haus steh'n drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+18;Westmittelbairisch;23;jung;_1S;Hinter unserm Haus steh'n drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+19;Westmittelbairisch;23;jung;_DR_1S;Hinter unserm Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+20;Westmittelbairisch;23;jung;_DR_1S;Hinter unserm Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+21;Westmittelbairisch;23;jung;_FS;Hinter unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+22;Westmittelbairisch;23;jung;_FS;Hinter unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+23;Westmittelbairisch;23;jung;_DR_FS;Hinter unsrem Haus stehn drei schene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+24;Westmittelbairisch;23;jung;_DR_FS;Hinter unsrem Haus stehn drei schene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+25;Westmittelbairisch;24;alt;_0S;Na, könnt’s net noch a Augenblickl auf uns wart’n, dann geh’n wir mit eich.;(e)l;Synthetic
+26;Westmittelbairisch;24;alt;_DR_0S;"In meinem Dialekt würde das so klingen: 
+
+„Könnt’s net a weng auf uns warten, dann geh’n wir mit eich.“";IRR;Synthetic
+27;Westmittelbairisch;24;alt;_1S;Könnt's ihr ned no a Aug'nblickchen auf uns warten, dann gehn ma mit eich.;chen;Synthetic
+28;Westmittelbairisch;24;alt;_DR_1S;"Natürlich! Der Satz würde im Dialekt so klingen:
+
+""Könnt's net no a Aug'nblickl auf uns wart'n, dann gehn ma mit eich.""";(e)l;Synthetic
+29;Westmittelbairisch;24;alt;_FS;Könnt’s ihr ned noch a Augnblikkchen auf uns wartn, dann gehn ma mit eich.;chen;Synthetic
+30;Westmittelbairisch;24;alt;_DR_FS;Könnts ihr ned no a Augnblikkla auf uns wartn, dann geh ma mit eich.;la;Synthetic
+31;Westmittelbairisch;24;jung;_0S;Könnt’s ned no a Augenblickl auf uns wartn, dann gehn wir mit eich.;(e)l;Synthetic
+32;Westmittelbairisch;24;jung;_DR_0S;„Könnts net noch a Momentchen auf uns wartn, dann gehn ma mit eich.“;IRR;Synthetic
+33;Westmittelbairisch;24;jung;_1S;Könnts ihr net no a Augnblickchen auf uns wartn, dann gehn ma mit eich.;chen;Synthetic
+34;Westmittelbairisch;24;jung;_DR_1S;Könnts ihr net no a Augnblikkchen auf uns wartn, dann geh ma mit eich.;chen;Synthetic
+35;Westmittelbairisch;24;jung;_FS;Könnts net noch a Augnblikkla auf uns wartn, dann gehma mit eich.;la;Synthetic
+36;Westmittelbairisch;24;jung;_DR_FS;Könnt's ihr net no a Augnblikkchen auf uns wart'n, dann gehn ma mit eich.;chen;Synthetic
+37;Westmittelbairisch;28;alt;_0S;„I versteh eich ned, ihr miasst a bissal lauter red'n.“;erl;Synthetic
+38;Westmittelbairisch;28;alt;_DR_0S;„I versteh eich net, ihr müsst a bisserl lauter redn.“;erl;Synthetic
+39;Westmittelbairisch;28;alt;_1S;"In meinem Dialekt würde der Satz so klingen:
+
+„I versteh eich net, ihr miasst a bissl lauter sprechn.“";(e)l;Synthetic
+40;Westmittelbairisch;28;alt;_DR_1S;Des versta i eich ned, ihr mißt a bissal lauter red'n.;erl;Synthetic
+41;Westmittelbairisch;28;alt;_FS;Ich versteh eich net, ihr müsst a bissl lauter red'n.;(e)l;Synthetic
+42;Westmittelbairisch;28;alt;_DR_FS;I versteh euch ned, ihr miasst a bissl lauter redn.;(e)l;Synthetic
+43;Westmittelbairisch;28;jung;_0S;Klar! Auf Taufkirchnerisch würde das ungefähr so klingen: „I versteh euch ned, ihr müsst a weng lauter redn.“;IRR;Synthetic
+44;Westmittelbairisch;28;jung;_DR_0S;In meinem Dialekt würde das so klingen: „I versteh eich net, ihr müßt a bissl lauter red’n.“;(e)l;Synthetic
+45;Westmittelbairisch;28;jung;_1S;I versteh eich net, ihr müsst a bisserl lauter redn.;erl;Synthetic
+46;Westmittelbairisch;28;jung;_DR_1S;I versteh eich net, eich miasst a bissl lauter red'n.;(e)l;Synthetic
+47;Westmittelbairisch;28;jung;_FS;I versteh eich ned, ihr müsst a bissl lauter reden.;(e)l;Synthetic
+48;Westmittelbairisch;28;jung;_DR_FS;I versteh eich ned, eich müaßt a bisserl lauter red'n.;erl;Synthetic
+49;Westmittelbairisch;29;alt;_0S;"Klar, ich übersetz' das für dich! Im Dialekt könnte das so klingen:
+
+„Habt’s ihr ka Stückerl weiße Seif für mi auf’n Tisch find’n?“";erl;Synthetic
+50;Westmittelbairisch;29;alt;_DR_0S;"Natürlich! Auf Westmittelbairisch würde der Satz ungefähr so lauten:
+
+""Hobts ihr koa Stückl weiße Seif für mi auf mein Tiachl gfundn?""";(e)l;Synthetic
+51;Westmittelbairisch;29;alt;_1S;"Natürlich! Im Dialekt würde der Satz so klingen:
+
+„Habts ihr koans Stückl weiße Seif für mi auf meim Tischl gefunden?“";(e)l;Synthetic
+52;Westmittelbairisch;29;alt;_DR_1S;„Habts ihr koa Stückl weiße Seif für mi auf meim Tischtl gfunden?“;(e)l;Synthetic
+53;Westmittelbairisch;29;alt;_FS;Hobts eah koa Stüxal weiße Seif für mi auf meim Tisch gfundn?;erl;Synthetic
+54;Westmittelbairisch;29;alt;_DR_FS;Habt's ihr koa Stückl weiße Seif für mi auf meim Tisch gefunden?;(e)l;Synthetic
+55;Westmittelbairisch;29;jung;_0S;"Natürlich! In meinem Dialekt könnte der Satz so klingen: 
+
+„Habt's ihr koa Stückerl weiße Seif für mi auf meinm Tischl find'n?“";erl;Synthetic
+56;Westmittelbairisch;29;jung;_DR_0S;"Kloa, ich kann des probieren! Im Westmittelbairischen Dialekt würd ma des so sagen:
+
+„Habts ihr koa Stück weiße Seif für mi auf meinem Tische gfundn?“";0;Synthetic
+57;Westmittelbairisch;29;jung;_1S;Habs eam ka Stuckl weiße Seif für mi auf meinm Tisch gfundn?;(e)l;Synthetic
+58;Westmittelbairisch;29;jung;_DR_1S;Habts ihr ka Stückl weiße Seif für mi auf meinm Tisch gefunden?;(e)l;Synthetic
+59;Westmittelbairisch;29;jung;_FS;Habt's koan Stückl weiße Seif für mi auf meim Tischl gfunden?;(e)l;Synthetic
+60;Westmittelbairisch;29;jung;_DR_FS;Habts ihr koans Stückl weiße Seif für mi auf meim Tischl gfunden?;(e)l;Synthetic
+61;Westmittelbairisch;33;alt;_0S;"In meinem Dialekt würde das so klingen:
+
+„Wos san des für Vögelchen, die da ob’n auf’m Mauerl hock’n?“";chen;Synthetic
+62;Westmittelbairisch;33;alt;_0S;"In meinem Dialekt würde das so klingen:
+
+„Wos san des für Vögelchen, die da ob’n auf’m Mauerl hock’n?“";erl;Synthetic
+63;Westmittelbairisch;33;alt;_DR_0S;„Was san denn do fia Vöglein ob'n auf'n Mäuerl?“;lein;Synthetic
+64;Westmittelbairisch;33;alt;_DR_0S;„Was san denn do fia Vöglein ob'n auf'n Mäuerl?“;erl;Synthetic
+65;Westmittelbairisch;33;alt;_1S;Da sitzen ja für Vogelcher oben auf'm Mauerchen?;cher;Synthetic
+66;Westmittelbairisch;33;alt;_1S;Da sitzen ja für Vogelcher oben auf'm Mauerchen?;chen;Synthetic
+67;Westmittelbairisch;33;alt;_DR_1S;Des san wos für Vögele oben auf’m Mäuerl?;le;Synthetic
+68;Westmittelbairisch;33;alt;_DR_1S;Des san wos für Vögele oben auf’m Mäuerl?;erl;Synthetic
+69;Westmittelbairisch;33;alt;_FS;Was sitzen da für Vögelchen owa auf’m Mäuerchen?;chen;Synthetic
+70;Westmittelbairisch;33;alt;_FS;Was sitzen da für Vögelchen owa auf’m Mäuerchen?;chen;Synthetic
+71;Westmittelbairisch;33;alt;_DR_FS;Was sitzn do für Vögelcher oben auf'm Mauerl?;cher;Synthetic
+72;Westmittelbairisch;33;alt;_DR_FS;Was sitzn do für Vögelcher oben auf'm Mauerl?;erl;Synthetic
+73;Westmittelbairisch;33;jung;_0S;„Was san do für Vögelchen oben auf’m Mäuerchen?“;chen;Synthetic
+74;Westmittelbairisch;33;jung;_0S;„Was san do für Vögelchen oben auf’m Mäuerchen?“;chen;Synthetic
+75;Westmittelbairisch;33;jung;_DR_0S;"In meinem Dialekt würd' das so klingen: ""Was hock'n denn do für Vöglein ob'n auf'n Mauerl?""";lein;Synthetic
+76;Westmittelbairisch;33;jung;_DR_0S;"In meinem Dialekt würd' das so klingen: ""Was hock'n denn do für Vöglein ob'n auf'n Mauerl?""";erl;Synthetic
+77;Westmittelbairisch;33;jung;_1S;Wos san do für Vögelchen oben auf’m Mäuerchen?;chen;Synthetic
+78;Westmittelbairisch;33;jung;_1S;Wos san do für Vögelchen oben auf’m Mäuerchen?;chen;Synthetic
+79;Westmittelbairisch;33;jung;_DR_1S;Was sitzen do für Vögl auf'n Mauerl?;0;Synthetic
+80;Westmittelbairisch;33;jung;_DR_1S;Was sitzen do für Vögl auf'n Mauerl?;erl;Synthetic
+81;Westmittelbairisch;33;jung;_FS;Was san da für Vögelchen oben auf'm Mäuerl?;chen;Synthetic
+82;Westmittelbairisch;33;jung;_FS;Was san da für Vögelchen oben auf'm Mäuerl?;erl;Synthetic
+83;Westmittelbairisch;33;jung;_DR_FS;Was sitzen do fia vögelchen obn auf'n mäuerchen?;chen;Synthetic
+84;Westmittelbairisch;33;jung;_DR_FS;Was sitzen do fia vögelchen obn auf'n mäuerchen?;chen;Synthetic
+85;Westmittelbairisch;49;alt;_0S;"In meinem Dialekt könnte der Satz so klingen:
+
+""De Bua ham fünf Ochs und neine Kühe und zwölfe Schaf vor's Dorf bracht, de wollten's verkaufen.""";0;Synthetic
+86;Westmittelbairisch;49;alt;_DR_0S;"In meinem Dialekt würde das so klingen:
+
+„Die Bauern hom fünf Ochs’n und neun Küah und zwölfe Schaf’n vor’s Dorf bracht, die wull’n se verkauf’n.“";n;Synthetic
+87;Westmittelbairisch;49;alt;_1S;"Satz: Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+
+Übersetzung: De Bauern ham fünfe Ochsen und neine Kühe und zwölfe Schäfchen vor s’ Dorf bracht, de wolltn se verkaufn.";chen;Synthetic
+88;Westmittelbairisch;49;alt;_DR_1S;Des Bauern hom fünfe Ochs'n und neun Kühe und zwölfe Schaf'n vor's Dorf bracht, die woll'n sie verkaufen.;n;Synthetic
+89;Westmittelbairisch;49;alt;_FS;de Bauern hom fümf Ochs'n und neih Küah und zwöf Schaf'n vor's Dorf bracht, de wöll'n se verkauf'n.;n;Synthetic
+90;Westmittelbairisch;49;alt;_DR_FS;De Bauern hen fünf Oxxn und neun Küh und zwölfe Schäfchen vor’s Dorf bracht, de woid’n se verkaufen.;chen;Synthetic
+91;Westmittelbairisch;49;jung;_0S;"Klar! Im Taufkirchener Dialekt könnte das so klingen:
+
+""Die Baur'n hatten fünf Ochs'n und neune Küah und zwölfe Schaf'n vor's Dorf gebracht, die woll'n's verkaufen.""";n;Synthetic
+92;Westmittelbairisch;49;jung;_DR_0S;"Sicher! In meinem Dialekt würde der Satz so klingen:
+
+„Die Bua’n ham fünf Ochs’n und neun Küah und zwölfe Schaf’n vor’s Dorf bracht, die woll’n’s verkaufen.“";n;Synthetic
+93;Westmittelbairisch;49;jung;_1S;Die Bauan hättn fümf Ochs'n und neun Kühe und zwölfe Schäf'n vor's Dorf bracht, de wölltn's verkauf'n.;n;Synthetic
+94;Westmittelbairisch;49;jung;_DR_1S;Die Baurn hotted fünfe Ochs'n und neie Kiah und zwoa Schaf'n vor's Dorf brocht, de woin se verkaff'n.;n;Synthetic
+95;Westmittelbairisch;49;jung;_FS;Die Bauan hoben fünf Ochs'n und neun Kih' und zwoa Schaf'n vor's Dorf bracht, de wöll'n se verkaufen.;n;Synthetic
+96;Westmittelbairisch;49;jung;_DR_FS;Die Bauern ham fünf Ochs'n und neun Küah und zwoa Schaf'n vor's Dorf bracht, de woll'n se verkaufen.;n;Synthetic
+97;Südmittelbairisch;23;alt;_0S;"""Hint’n unser’m Haus stehn drei schene Apfelbäumchen mit rotn Äpfelchen.""";chen;Synthetic
+98;Südmittelbairisch;23;alt;_0S;"""Hint’n unser’m Haus stehn drei schene Apfelbäumchen mit rotn Äpfelchen.""";chen;Synthetic
+99;Südmittelbairisch;23;alt;_DR_0S;„Hinter unserm Haus steh’n drei schöne Apfelbäumchen mit roten Äpfelchen.“;chen;Synthetic
+100;Südmittelbairisch;23;alt;_DR_0S;„Hinter unserm Haus steh’n drei schöne Apfelbäumchen mit roten Äpfelchen.“;chen;Synthetic
+101;Südmittelbairisch;23;alt;_1S;Hinter unserm Haus steign drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+102;Südmittelbairisch;23;alt;_1S;Hinter unserm Haus steign drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+103;Südmittelbairisch;23;alt;_DR_1S;Hinter unserm Huas stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+104;Südmittelbairisch;23;alt;_DR_1S;Hinter unserm Huas stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+105;Südmittelbairisch;23;alt;_FS;Hinter unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+106;Südmittelbairisch;23;alt;_FS;Hinter unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+107;Südmittelbairisch;23;alt;_DR_FS;Hinter unsam Haus stein drei schöna Apfelbäumchen mit rotn Äpfelchn.;chen;Synthetic
+108;Südmittelbairisch;23;alt;_DR_FS;Hinter unsam Haus stein drei schöna Apfelbäumchen mit rotn Äpfelchn.;chen;Synthetic
+109;Südmittelbairisch;23;jung;_0S;In Neckenmarkt könnte das so klingen: „Hinter uns’m Haus stehn drei scheene Apfelbäumchen mit roten Äpfelchen.“;chen;Synthetic
+110;Südmittelbairisch;23;jung;_0S;In Neckenmarkt könnte das so klingen: „Hinter uns’m Haus stehn drei scheene Apfelbäumchen mit roten Äpfelchen.“;chen;Synthetic
+111;Südmittelbairisch;23;jung;_DR_0S;In unserem Haus stehn drei scheene Apfelbäumchen mit roten Äpfelchen.;chen;Synthetic
+112;Südmittelbairisch;23;jung;_DR_0S;In unserem Haus stehn drei scheene Apfelbäumchen mit roten Äpfelchen.;chen;Synthetic
+113;Südmittelbairisch;23;jung;_1S;Hinter unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+114;Südmittelbairisch;23;jung;_1S;Hinter unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+115;Südmittelbairisch;23;jung;_DR_1S;Hinter unsrem Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+116;Südmittelbairisch;23;jung;_DR_1S;Hinter unsrem Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+117;Südmittelbairisch;23;jung;_FS;Hindern unserm Haus steh’n drei scheene Apfelbäumchen mit rotn Äpfelchn.;chen;Synthetic
+118;Südmittelbairisch;23;jung;_FS;Hindern unserm Haus steh’n drei scheene Apfelbäumchen mit rotn Äpfelchn.;chen;Synthetic
+119;Südmittelbairisch;23;jung;_DR_FS;Hinter unsrem Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+120;Südmittelbairisch;23;jung;_DR_FS;Hinter unsrem Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+121;Südmittelbairisch;24;alt;_0S;"In Neckenmarkt, einem Ort in Österreich, würde der Satz etwa so klingen:
+
+„Könnt’s ned no a Momentl auf uns wart’n, dann geh’n ma mit eich.“";IRR;Synthetic
+122;Südmittelbairisch;24;alt;_DR_0S;Könnt's net no a Augenblickl auf uns warten, dann kimma mit eich.;(e)l;Synthetic
+123;Südmittelbairisch;24;alt;_1S;Goißt's net noch a Aug'nblick auf uns warta, donn gehn ma mit eich.;(e)l;Synthetic
+124;Südmittelbairisch;24;alt;_DR_1S;Könnts ihr net noch a Augnblikkle auf uns wartn, dann gehn ma mit eich.;le;Synthetic
+125;Südmittelbairisch;24;alt;_FS;Könnts ihr net no a Augnblikkla auf uns warten, dann gehn wir mit eich.;la;Synthetic
+126;Südmittelbairisch;24;alt;_DR_FS;Könnts ihr ned noch a Augnblöckchen auf uns wartn, donn gehn ma mit eich.;chen;Synthetic
+127;Südmittelbairisch;24;jung;_0S;„Könnt’s net noch a bissl auf uns warten, dann gehn ma mit euch.“;IRR;Synthetic
+128;Südmittelbairisch;24;jung;_DR_0S;"Natürlich, in meinem Dialekt könnte das so klingen: 
+
+""Könnt’s ned noch a Bisserl auf uns warten, dann geh’n ma mit eich.""";IRR;Synthetic
+129;Südmittelbairisch;24;jung;_1S;Könnt’s ihr net noch a Augnblick auf uns wart’n, dann gehn ma mit eich.;0;Synthetic
+130;Südmittelbairisch;24;jung;_DR_1S;Könnt’s ihr ned a noch a Aug’nblick auf uns wart’n, donn geh’n ma mit eich.;0;Synthetic
+131;Südmittelbairisch;24;jung;_FS;Könnts ihr net noch a Augnblickl auf uns warta, donn gehn ma mit eich.;0;Synthetic
+132;Südmittelbairisch;24;jung;_DR_FS;Könnts ihr net noch a Augnblickl auf uns warta, dann gehn wir mit eich.;0;Synthetic
+133;Südmittelbairisch;28;alt;_0S;Na, i versteh eich net, ihr müsst a bissl lauter red'n.;(e)l;Synthetic
+134;Südmittelbairisch;28;alt;_DR_0S;„I versteh eich net, ihr müsst a bissl lauter red’n.“;(e)l;Synthetic
+135;Südmittelbairisch;28;alt;_1S;"Klar, hier ist die Übersetzung in den Dialekt:
+
+„I versteh euch net, ihr müßt a bisserl lauter reden.“";erl;Synthetic
+136;Südmittelbairisch;28;alt;_DR_1S;I versteh eich ned, eich müass a bisserl lauter redn.;erl;Synthetic
+137;Südmittelbairisch;28;alt;_FS;Ich verstohe eich ned, ihr müßt a bissl lauter sprechn.;(e)l;Synthetic
+138;Südmittelbairisch;28;alt;_DR_FS;I versteh eich ned, ihr müsst a bisserl lauter sprechn.;erl;Synthetic
+139;Südmittelbairisch;28;jung;_0S;„I versteh euch ned, ihr müsst a bisserl lauter redn.“;erl;Synthetic
+140;Südmittelbairisch;28;jung;_DR_0S;„I versteh eich ned, ihr müßt a bisserl lauter red'n.“;erl;Synthetic
+141;Südmittelbairisch;28;jung;_1S;I versteh eich ned, ihr müss a bissl lauter sprechn.;(e)l;Synthetic
+142;Südmittelbairisch;28;jung;_DR_1S;I versteh eich ned, eich müass a bisserl lauter redn.;erl;Synthetic
+143;Südmittelbairisch;28;jung;_FS;Ich versteh eich net, ihr miasst a bissl lauter sprechen.;(e)l;Synthetic
+144;Südmittelbairisch;28;jung;_DR_FS;I versthe eich net, ihr müsst a bissl lauter redn.;(e)l;Synthetic
+145;Südmittelbairisch;29;alt;_0S;„Habt’s ihr koa Stückl weiße Seif für mi auf meinm Tischl gfundn?“;(e)l;Synthetic
+146;Südmittelbairisch;29;alt;_DR_0S;Habts es ka Weißseifenstückl für mi auf meim Tisch gfundn?;(e)l;Synthetic
+147;Südmittelbairisch;29;alt;_1S;hobts es koan Stüggal weiße Seif für mi auf meim Tisch gfundn?;erl;Synthetic
+148;Südmittelbairisch;29;alt;_DR_1S;Hobts es koans Stiakel weiße Soaf füa mi auf meim Tische gfundn?;(e)l;Synthetic
+149;Südmittelbairisch;29;alt;_FS;hobts kuan stukal waße seifn fia mi auf mein tisch gfundn?;erl;Synthetic
+150;Südmittelbairisch;29;alt;_DR_FS;hobts koans stückal wais seifn für mi auf mein tisch gfundn?;erl;Synthetic
+151;Südmittelbairisch;29;jung;_0S;Klar, in meinem Dialekt würde das ungefähr so klingen: „Habt’s nix an Stückl weiße Seif für mi auf’m Tisch find’n?“;(e)l;Synthetic
+152;Südmittelbairisch;29;jung;_DR_0S;„Habts ihr nix a Stückl weiße Seif für mi auf’m Tisch g’fund’n?“;(e)l;Synthetic
+153;Südmittelbairisch;29;jung;_1S;Habt’s ihr koa Stückl weiße Seife für mi auf meim Tischtl gefunden?;(e)l;Synthetic
+154;Südmittelbairisch;29;jung;_DR_1S;Habts eam ka Stückli weiße Seif für mi auf meim Tisch gfundn?;li;Synthetic
+155;Südmittelbairisch;29;jung;_FS;Habts ihr koa Stückl weiße Seife für mi auf meim Tisch gfundn?;(e)l;Synthetic
+156;Südmittelbairisch;29;jung;_DR_FS;Habt's ihr koa Stückl weiße Seif für mi auf mein Tische gfundn?;(e)l;Synthetic
+157;Südmittelbairisch;33;alt;_0S;„Was sitzen do für Vögele oben auf’n Mauerl?“;le;Synthetic
+158;Südmittelbairisch;33;alt;_0S;„Was sitzen do für Vögele oben auf’n Mauerl?“;erl;Synthetic
+159;Südmittelbairisch;33;alt;_DR_0S;Na, wos san do für Vöglein, die ob'n auf'n Mäuerl sitzen?;lein;Synthetic
+160;Südmittelbairisch;33;alt;_DR_0S;Na, wos san do für Vöglein, die ob'n auf'n Mäuerl sitzen?;erl;Synthetic
+161;Südmittelbairisch;33;alt;_1S;Was sizzn do fia Vöglchn oba auf’m Mauerl?;chen;Synthetic
+162;Südmittelbairisch;33;alt;_1S;Was sizzn do fia Vöglchn oba auf’m Mauerl?;erl;Synthetic
+163;Südmittelbairisch;33;alt;_DR_1S;Was sitzn do für Vöglcherl owa auf’m Mäuerl?;cherl;Synthetic
+164;Südmittelbairisch;33;alt;_DR_1S;Was sitzn do für Vöglcherl owa auf’m Mäuerl?;erl;Synthetic
+165;Südmittelbairisch;33;alt;_FS;Was sitzn do für Vöglchn obm aufm Mäuerchn?;chen;Synthetic
+166;Südmittelbairisch;33;alt;_FS;Was sitzn do für Vöglchn obm aufm Mäuerchn?;chen;Synthetic
+167;Südmittelbairisch;33;alt;_DR_FS;Was sitzn do für Vögelchen oben aufm Mauerle?;chen;Synthetic
+168;Südmittelbairisch;33;alt;_DR_FS;Was sitzn do für Vögelchen oben aufm Mauerle?;le;Synthetic
+169;Südmittelbairisch;33;jung;_0S;Wos sitzn denn do füa Vogerl obn auf'm Mauerl?;erl;Synthetic
+170;Südmittelbairisch;33;jung;_0S;Wos sitzn denn do füa Vogerl obn auf'm Mauerl?;erl;Synthetic
+171;Südmittelbairisch;33;jung;_DR_0S;Wås sitzn do füa Vögerl oben aufm Mäuerl?;erl;Synthetic
+172;Südmittelbairisch;33;jung;_DR_0S;Wås sitzn do füa Vögerl oben aufm Mäuerl?;erl;Synthetic
+173;Südmittelbairisch;33;jung;_1S;Wos sitzn do fia Vogerl obm aufm Moierl?;erl;Synthetic
+174;Südmittelbairisch;33;jung;_1S;Wos sitzn do fia Vogerl obm aufm Moierl?;erl;Synthetic
+175;Südmittelbairisch;33;jung;_DR_1S;Wos sitzn do fia Vögal oba aufm Moierl?;erl;Synthetic
+176;Südmittelbairisch;33;jung;_DR_1S;Wos sitzn do fia Vögal oba aufm Moierl?;erl;Synthetic
+177;Südmittelbairisch;33;jung;_FS;Wos sitzn do fiar Vigalkin obm aufm Mojerl?;kin;Synthetic
+178;Südmittelbairisch;33;jung;_FS;Wos sitzn do fiar Vigalkin obm aufm Mojerl?;erl;Synthetic
+179;Südmittelbairisch;33;jung;_DR_FS;Was sitzn do für Vögelcher owa auf’m Mauerl?;cher;Synthetic
+180;Südmittelbairisch;33;jung;_DR_FS;Was sitzn do für Vögelcher owa auf’m Mauerl?;erl;Synthetic
+181;Südmittelbairisch;49;alt;_0S;„Die Bauren hätt’n fünf Ochs’n und neun Kühe und zwölfe Schaf’n vor’s Dorf bracht, die woll’n sie verkaufen.“;n;Synthetic
+182;Südmittelbairisch;49;alt;_DR_0S;"In meinem Dialekt würde das so klingen: 
+
+„Die Baua ham fünf Ochs’n und neich Küah und zwoa Zwetschgen vor’s Dorf bracht, die woll’n sie verkauf’n.“";IRR;Synthetic
+183;Südmittelbairisch;49;alt;_1S;"Satz: Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+
+Übersetzung: Die Bauarn hättn fümf Ochs'n und nejn Kiah und zwölft Schäf'n vor's Dorf bracht, die wölltn's verkaff'n.";n;Synthetic
+184;Südmittelbairisch;49;alt;_DR_1S;Die Bauern hodd’n fünf Ochs’n und neine Küah und zwoaf Schäf’n vor’s Dorf bracht, die wollt’n se verkaff’n.;n;Synthetic
+185;Südmittelbairisch;49;alt;_FS;Die Bauern henn fünf Ochs’n und neun Küah und zwölv Schäf’n vor’s Dorf bracht, die woll’n sie verkauf’n.;n;Synthetic
+186;Südmittelbairisch;49;alt;_DR_FS;Die Bauern hadd'n fünf Ochs'n und nean Küah und zwölft Schaf'n vor's Dorf bracht, die woll'n's verkaufen.;n;Synthetic
+187;Südmittelbairisch;49;jung;_0S;„Die Bauern ham fünf Ochsen und neun Kühe und zwölf Schafsbockerl vor’s Dorf bracht, die woll’n’s verkaufen.“;IRR;Synthetic
+188;Südmittelbairisch;49;jung;_DR_0S;In meinem Dialekt würde das so klingen: „De Bäuern ham fünf Ochs’n und neun Kiah und zwölfe Schaf’n vor’s Dorf bracht, die wüll’n se verkauf’n.“;n;Synthetic
+189;Südmittelbairisch;49;jung;_1S;Die Bauan händ fünf Oxa und nean Küah und zwölfa Schäpchen vor’s Dorf bracht, die wölln’s verkaufen.;IRR;Synthetic
+190;Südmittelbairisch;49;jung;_DR_1S;Die Bauern hoddn fünf Ochs'n und neun Küah und zwöaf Schafn vor's Dorf bracht, de woid'n se verkaffn.;n;Synthetic
+191;Südmittelbairisch;49;jung;_FS;Die Bauan hättn fünf Oxen und neun Küah und zwoaf Zwölf Schäfchn vor s' Dorf brocht, die wolltn se verkaufn.;n;Synthetic
+192;Südmittelbairisch;49;jung;_DR_FS;Die Boarn hen fünf Ochs'n und neig Küah und zwölfa Schäp'n vor's Dorf bracht, die woll'n se verkaff'n.;IRR;Synthetic
+193;Südbairisch;23;alt;_0S;Hinter unserm Haus stehen drei scheane Apfelbamerl mit rotnen Äpfal.;erl;Synthetic
+194;Südbairisch;23;alt;_0S;Hinter unserm Haus stehen drei scheane Apfelbamerl mit rotnen Äpfal.;erl;Synthetic
+195;Südbairisch;23;alt;_DR_0S;Hinter unserm Haus stian drei scheane Apfelbamerl mit rotn Äpfalan.;erl;Synthetic
+196;Südbairisch;23;alt;_DR_0S;Hinter unserm Haus stian drei scheane Apfelbamerl mit rotn Äpfalan.;lan;Synthetic
+197;Südbairisch;23;alt;_1S;Hinta unserm Haus stian drei schene Apfelbåmle mit rotn Äpfle.;le;Synthetic
+198;Südbairisch;23;alt;_1S;Hinta unserm Haus stian drei schene Apfelbåmle mit rotn Äpfle.;le;Synthetic
+199;Südbairisch;23;alt;_DR_1S;Hinta unserm Haus stian drei schen Apflbamerl mit rotn Apflal.;erl;Synthetic
+200;Südbairisch;23;alt;_DR_1S;Hinta unserm Haus stian drei schen Apflbamerl mit rotn Apflal.;erl;Synthetic
+201;Südbairisch;23;alt;_FS;Hinta unsam haus sten drei scheane apflbamerl mit roten apflerl.;erl;Synthetic
+202;Südbairisch;23;alt;_FS;Hinta unsam haus sten drei scheane apflbamerl mit roten apflerl.;erl;Synthetic
+203;Südbairisch;23;alt;_DR_FS;Hinta unserm haus stian drei schene opflbamerl mit rotn opflrlen.;erl;Synthetic
+204;Südbairisch;23;alt;_DR_FS;Hinta unserm haus stian drei schene opflbamerl mit rotn opflrlen.;le;Synthetic
+205;Südbairisch;23;jung;_0S;In Weißbriach könnte das so klingen: „Hinter uns´m Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.“;chen;Synthetic
+206;Südbairisch;23;jung;_0S;In Weißbriach könnte das so klingen: „Hinter uns´m Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.“;chen;Synthetic
+207;Südbairisch;23;jung;_DR_0S;"Klar, hier ist der Satz auf Weißbriach-Bairisch: 
+
+„Hinter unserm Haus stehn drei schöne Apfelbäumchen mit roten Äpfelchen.“";chen;Synthetic
+208;Südbairisch;23;jung;_DR_0S;"Klar, hier ist der Satz auf Weißbriach-Bairisch: 
+
+„Hinter unserm Haus stehn drei schöne Apfelbäumchen mit roten Äpfelchen.“";chen;Synthetic
+209;Südbairisch;23;jung;_1S;Hinder unsrem Haus stein drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+210;Südbairisch;23;jung;_1S;Hinder unsrem Haus stein drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+211;Südbairisch;23;jung;_DR_1S;Hinter unserm Haus steh'n drei schene Apfelbäumchen mit roten Äpfelchen.;chen;Synthetic
+212;Südbairisch;23;jung;_DR_1S;Hinter unserm Haus steh'n drei schene Apfelbäumchen mit roten Äpfelchen.;chen;Synthetic
+213;Südbairisch;23;jung;_FS;Hinter unsrem Haus steh’n drei schöne Apfelbäumchen mit roten Äpfelchen.;chen;Synthetic
+214;Südbairisch;23;jung;_FS;Hinter unsrem Haus steh’n drei schöne Apfelbäumchen mit roten Äpfelchen.;chen;Synthetic
+215;Südbairisch;23;jung;_DR_FS;Hinter unserm Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+216;Südbairisch;23;jung;_DR_FS;Hinter unserm Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+217;Südbairisch;24;alt;_0S;"In meinem Dialekt aus Weißbriach würde der Satz wahrscheinlich so klingen: 
+
+""Koanst noch a Augenblick auf uns wart'n, dann gehn ma mit eich.""";0;Synthetic
+218;Südbairisch;24;alt;_DR_0S;Na, könnt's net a no a Augenblickl auf uns wart'n? Dann gehn wir mit eich.;(e)l;Synthetic
+219;Südbairisch;24;alt;_1S;"In meinem Dialekt würde das so klingen:
+
+„Könnts eah nix no a Augnblickl auf uns warten, dann gangan ma mit eah.“";(e)l;Synthetic
+220;Südbairisch;24;alt;_DR_1S;"Natürlich! Im Dialekt würde das etwa so klingen:
+
+""Könnt's ihr ned noch a Augenblickchen auf uns wart'n, dann geh'n mir mit euch.""";chen;Synthetic
+221;Südbairisch;24;alt;_FS;Könnts eah nix no a augenblick auf uns warten, dann gehn ma mit eich.;0;Synthetic
+222;Südbairisch;24;alt;_DR_FS;Könnts ihr ned no a Augenblickchen auf uns wartn, dann gehn ma mit eich.;chen;Synthetic
+223;Südbairisch;24;jung;_0S;„Könnts net no a Augerle auf uns wartn, donn gehn ma mit enk.“;IRR;Synthetic
+224;Südbairisch;24;jung;_DR_0S;"""Könnt’s net no a Augerle auf uns warten, dann gengan mia mit enk.""";IRR;Synthetic
+225;Südbairisch;24;jung;_1S;Könnt's net nu a Augnblickl auf uns warten, dann gemma mit enk.;(e)l;Synthetic
+226;Südbairisch;24;jung;_DR_1S;Könnt's ihr ned no a Aug'nblick auf uns warten, dann gehn ma mit eich.;0;Synthetic
+227;Südbairisch;24;jung;_FS;Könnt's net nu a Augablickle auf ins woartn, dann gehn mir mit enk.;le;Synthetic
+228;Südbairisch;24;jung;_DR_FS;Könnts eana net noch a Augenblickchen auf uns wartn, dann geh ma mit eich.;chen;Synthetic
+229;Südbairisch;28;alt;_0S;Na, i versteh euch net, ihr müßt a bissl lauter red’n.;(e)l;Synthetic
+230;Südbairisch;28;alt;_DR_0S;Na, i verstohe eich ned, ihr miasst a bissl lauter red'n.;(e)l;Synthetic
+231;Südbairisch;28;alt;_1S;"In meinem Dialekt würde das so klingen:
+
+„I verstea euch net, ihr miasst a bissl lauter sprechn.“";(e)l;Synthetic
+232;Südbairisch;28;alt;_DR_1S;"Satz: Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
+
+Übersetzung: i versteh eich net, eich müsst a bissl lauter redn.";(e)l;Synthetic
+233;Südbairisch;28;alt;_FS;Ich versteh eich ned, ihr miasst a bisserl lauter sprechn.;erl;Synthetic
+234;Südbairisch;28;alt;_DR_FS;Ich versteh eich ned, ihr miasst a bisserl lauter sprechn.;erl;Synthetic
+235;Südbairisch;28;jung;_0S;In meinem Dialekt würde das so klingen: „I versteh eich ned, ihr müsst a bissl lauter red'n.“;(e)l;Synthetic
+236;Südbairisch;28;jung;_DR_0S;"""Ich versteh euch ned, ihr miasst a bissl lauter red'n.""";(e)l;Synthetic
+237;Südbairisch;28;jung;_1S;I versteh eich net, ihr müsst a bissl lauter redn.;(e)l;Synthetic
+238;Südbairisch;28;jung;_DR_1S;I versteh eich ned, eich müass a bisserl lauter reden.;erl;Synthetic
+239;Südbairisch;28;jung;_FS;Ich versteh eich net, ihr müsst a bisserl lauter reden.;erl;Synthetic
+240;Südbairisch;28;jung;_DR_FS;I versteh eich net, ihr miasst a bissl lauter reden.;(e)l;Synthetic
+241;Südbairisch;29;alt;_0S;„Habts ihr koa Stückl weiße Seif für mi auf mein’m Tischl gefunden?“;(e)l;Synthetic
+242;Südbairisch;29;alt;_DR_0S;„Habt’s ihr koa Stückl weiße Seif für mi auf’m Tisch gefunden?“;(e)l;Synthetic
+243;Südbairisch;29;alt;_1S;„Habts ihr koa Stückl weiße Seif für mi auf mein’m Tischl gefunden?“;(e)l;Synthetic
+244;Südbairisch;29;alt;_DR_1S;„Habt’s ihr koa Stückl weiße Seif für mi auf meim Tisch find’n?“;(e)l;Synthetic
+245;Südbairisch;29;alt;_FS;habt’s ihr koa Stückl weiße Seife für mi auf meim Tisch gfundn?;0;Synthetic
+246;Südbairisch;29;alt;_DR_FS;Habt’s ihr ka Stück weiße Seif für mi auf’m Tisch gfundn?;0;Synthetic
+247;Südbairisch;29;jung;_0S;„Hobts ihr koan Stückl weiße Seif für mi auf meinm Tischl gfundn?“;(e)l;Synthetic
+248;Südbairisch;29;jung;_DR_0S;"Klar! Im Südbairischen Dialekt würde man sagen:
+
+""Habt's ihr koa Stückl weiße Seif für mi auf’m Tisch gfunden?""";(e)l;Synthetic
+249;Südbairisch;29;jung;_1S;"Satz: Habt ihr kein Stückchen weiße Seife für mich auf meinem Tische gefunden?
+
+Übersetzung: Ham's koa Stückl weiße Seif für mi auf mein'n Tischn gefunden?";(e)l;Synthetic
+250;Südbairisch;29;jung;_DR_1S;Hobts ihr koa Stück weiße Seif für mi auf meinem Tisch gfundn?;0;Synthetic
+251;Südbairisch;29;jung;_FS;Habt’s koa Stückl weiße Seif für mi auf’m Tisch gfundn?;(e)l;Synthetic
+252;Südbairisch;29;jung;_DR_FS;Habt's ihr koa Stück weiße Seif für mi auf’m Tisch gfundn?;0;Synthetic
+253;Südbairisch;33;alt;_0S;Na, schau, wos san des für Vögelchen, de do oben auf'n Mäuerchen hock'n?;chen;Synthetic
+254;Südbairisch;33;alt;_0S;Na, schau, wos san des für Vögelchen, de do oben auf'n Mäuerchen hock'n?;chen;Synthetic
+255;Südbairisch;33;alt;_DR_0S;„Was san da für Vöglein oben auf’m Mäuerl?“;lein;Synthetic
+256;Südbairisch;33;alt;_DR_0S;„Was san da für Vöglein oben auf’m Mäuerl?“;erl;Synthetic
+257;Südbairisch;33;alt;_1S;Na, was sitzen do für Vögelchen oben auf'm Mäuerchen?;chen;Synthetic
+258;Südbairisch;33;alt;_1S;Na, was sitzen do für Vögelchen oben auf'm Mäuerchen?;chen;Synthetic
+259;Südbairisch;33;alt;_DR_1S;Da san a paar Vögelchen oben auf’m Mäuerchen.;chen;Synthetic
+260;Südbairisch;33;alt;_DR_1S;Da san a paar Vögelchen oben auf’m Mäuerchen.;chen;Synthetic
+261;Südbairisch;33;alt;_FS;Was sitzn do für Vöglcher oben aufm Mauerchen?;cher;Synthetic
+262;Südbairisch;33;alt;_FS;Was sitzn do für Vöglcher oben aufm Mauerchen?;chen;Synthetic
+263;Südbairisch;33;alt;_DR_FS;Was sitzn do für Vögelcher oben aufm Mäuerchen?;cher;Synthetic
+264;Südbairisch;33;alt;_DR_FS;Was sitzn do für Vögelcher oben aufm Mäuerchen?;chen;Synthetic
+265;Südbairisch;33;jung;_0S;„Was san denn do für Vöglein oben auf’m Mauerl?“;lein;Synthetic
+266;Südbairisch;33;jung;_0S;„Was san denn do für Vöglein oben auf’m Mauerl?“;erl;Synthetic
+267;Südbairisch;33;jung;_DR_0S;"In meinem Dialekt würde man das so sagen: ""Was san do für Vögelchen oben auf da Mauer?""";chen;Synthetic
+268;Südbairisch;33;jung;_DR_0S;"In meinem Dialekt würde man das so sagen: ""Was san do für Vögelchen oben auf da Mauer?""";0;Synthetic
+269;Südbairisch;33;jung;_1S;„Was sitzen da fia Vögelchen owa auf’m Mäuerchen?“;chen;Synthetic
+270;Südbairisch;33;jung;_1S;„Was sitzen da fia Vögelchen owa auf’m Mäuerchen?“;chen;Synthetic
+271;Südbairisch;33;jung;_DR_1S;Was sitzn do für Vögelchen oba auf’m Mäuerchen?;chen;Synthetic
+272;Südbairisch;33;jung;_DR_1S;Was sitzn do für Vögelchen oba auf’m Mäuerchen?;chen;Synthetic
+273;Südbairisch;33;jung;_FS;Was sitzen da für Vögele oben auf'm Mäuerchen?;le;Synthetic
+274;Südbairisch;33;jung;_FS;Was sitzen da für Vögele oben auf'm Mäuerchen?;chen;Synthetic
+275;Südbairisch;33;jung;_DR_FS;Was sitzen do für Vögelchen oben auf’m Mäuerchen?;chen;Synthetic
+276;Südbairisch;33;jung;_DR_FS;Was sitzen do für Vögelchen oben auf’m Mäuerchen?;chen;Synthetic
+277;Südbairisch;49;alt;_0S;Na, i werd’s ma so sagn: „Die Bauan ham fünf Ochs und neun Küah und zwölf Schafserl vor’s Dorf bracht, de woll’n’s verkaufen.“;erl;Synthetic
+278;Südbairisch;49;alt;_DR_0S;„Die Bäuern hätt’n fünf Ochs’n und neien Küh und zwölfe Schaf’n vor’s Dorf bracht, die woll’n se verkaufen.“;n;Synthetic
+279;Südbairisch;49;alt;_1S;Die Bauern hert fünft Ochs'n und neien Küah und zwöaf Schaf'n vor's Dorf bracht, die woll'n se verkaufen.;n;Synthetic
+280;Südbairisch;49;alt;_DR_1S;"Satz: Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+
+Übersetzung: d’ Bauern hätt’n fümf Ochsen und neun Kühe und zwoelf Schäf’n vor s’ Dorf bracht, d’ wöll’n’s verkauf’n.";n;Synthetic
+281;Südbairisch;49;alt;_FS;Die Bauern hert fünf Oxxen und neun Kühe und zwoelf Schäfchen vor s_Dorf bracht, die wollt’n sie verkaufn.;chen;Synthetic
+282;Südbairisch;49;alt;_DR_FS;Die Bauern hom fünf Ochs'n und neun Kühe und zwölfe Schaf'n vor s'Dorf bracht, die wöll'n se verkauf'n.;n;Synthetic
+283;Südbairisch;49;jung;_0S;"In Weißbriach würde das ungefähr so klingen:
+
+""Die Bauar hom fünf Ochs und neun Küah und zwölfe Schafn vor's Dorf gebracht, die woll'n's verkaufen.""";n;Synthetic
+284;Südbairisch;49;jung;_DR_0S;"""Die Bauern ham fünf Ochsen und neun Kühe und zwölfe Schafe vor's Dorf gebracht, die wollt'n sie verkaufen.""";0;Synthetic
+285;Südbairisch;49;jung;_1S;Die Bauern händ fünf Ochs'n und neun Kühe und zwölfe Schaf'n vor's Dorf bracht, die wüll'n se verkaufen.;n;Synthetic
+286;Südbairisch;49;jung;_DR_1S;Die Bauern hen fünf Ochs'n und neig Kühe und zwölfe Schaf'n vor's Dorf bracht, die woll'n se verkaufen.;n;Synthetic
+287;Südbairisch;49;jung;_FS;Die Bauern händ fünf Ochs'n und neun Kühe und zwölfe Schäfchen vor's Dorf bracht, die wöll'n sie verkaufen.;chen;Synthetic
+288;Südbairisch;49;jung;_DR_FS;Die Bauern hom fünf Ochsen und neun Kühe und zwöf Schäfchen vor’s Dorf bracht, die wöll’n sie verkaufen.;chen;Synthetic
+289;Ostmittelbairisch;23;alt;_0S;"In meinem Dialekt könnte der Satz so lauten:
+
+""Hinter unser’m Haus steh’n drei schene Apfelbäum’ mit roten Äpfeln.""";0;Synthetic
+290;Ostmittelbairisch;23;alt;_0S;"In meinem Dialekt könnte der Satz so lauten:
+
+""Hinter unser’m Haus steh’n drei schene Apfelbäum’ mit roten Äpfeln.""";0;Synthetic
+291;Ostmittelbairisch;23;alt;_DR_0S;"Natürlich! Im Ostmittelbairischen Dialekt könnte der Satz so lauten:
+
+""Hinter unsrem Haus steh'n drei schöne Apfelbäumchen mit roten Äpfelchen.""";chen;Synthetic
+292;Ostmittelbairisch;23;alt;_DR_0S;"Natürlich! Im Ostmittelbairischen Dialekt könnte der Satz so lauten:
+
+""Hinter unsrem Haus steh'n drei schöne Apfelbäumchen mit roten Äpfelchen.""";chen;Synthetic
+293;Ostmittelbairisch;23;alt;_1S;Hinter unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+294;Ostmittelbairisch;23;alt;_1S;Hinter unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+295;Ostmittelbairisch;23;alt;_DR_1S;Hinder unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+296;Ostmittelbairisch;23;alt;_DR_1S;Hinder unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+297;Ostmittelbairisch;23;alt;_FS;Hinter unserm Haus steh'n drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+298;Ostmittelbairisch;23;alt;_FS;Hinter unserm Haus steh'n drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+299;Ostmittelbairisch;23;alt;_DR_FS;Hinter unsrem Haus steh'n drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+300;Ostmittelbairisch;23;alt;_DR_FS;Hinter unsrem Haus steh'n drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+301;Ostmittelbairisch;23;jung;_0S;„Hinter unserm Haus steh’n drei schöne Apfelbäumchen mit roten Äpfelchen.“;chen;Synthetic
+302;Ostmittelbairisch;23;jung;_0S;„Hinter unserm Haus steh’n drei schöne Apfelbäumchen mit roten Äpfelchen.“;chen;Synthetic
+303;Ostmittelbairisch;23;jung;_DR_0S;Klar, auf Ostmittelbairisch könnte man das so sagen: „Hintan bei uns im Haus stehn drei schene Apfelbäumchen mit rotn Äpfelchen.“;chen;Synthetic
+304;Ostmittelbairisch;23;jung;_DR_0S;Klar, auf Ostmittelbairisch könnte man das so sagen: „Hintan bei uns im Haus stehn drei schene Apfelbäumchen mit rotn Äpfelchen.“;chen;Synthetic
+305;Ostmittelbairisch;23;jung;_1S;Hinter unsrem Haus steh’n drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+306;Ostmittelbairisch;23;jung;_1S;Hinter unsrem Haus steh’n drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+307;Ostmittelbairisch;23;jung;_DR_1S;Hinter unserm Haus stehn drei schöne Apfelbäumchen mit roten Äpfelchen.;chen;Synthetic
+308;Ostmittelbairisch;23;jung;_DR_1S;Hinter unserm Haus stehn drei schöne Apfelbäumchen mit roten Äpfelchen.;chen;Synthetic
+309;Ostmittelbairisch;23;jung;_FS;Hinter unsrem Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+310;Ostmittelbairisch;23;jung;_FS;Hinter unsrem Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+311;Ostmittelbairisch;23;jung;_DR_FS;Hinter unserm Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+312;Ostmittelbairisch;23;jung;_DR_FS;Hinter unserm Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+313;Ostmittelbairisch;24;alt;_0S;"Natürlich! Im Dialekt aus Neumarkt an der Ybbs könnte das so klingen:
+
+„Könnt’s net noch a bissl auf uns warten, dann gehn ma mit euch.“";IRR;Synthetic
+314;Ostmittelbairisch;24;alt;_DR_0S;"In meinem Dialekt würde das so klingen:
+
+„Könnt's net no a Augenblick auf uns wart'n, dann gehn ma mit eich.“";0;Synthetic
+315;Ostmittelbairisch;24;alt;_1S;Könnts ihr net noch a Aug'nblick auf uns wart'n, donn gehn ma mit eich.;0;Synthetic
+316;Ostmittelbairisch;24;alt;_DR_1S;Könnt's eahna net no a Augenblickchen auf uns wart'n, dann gehn ma mit eich.;chen;Synthetic
+317;Ostmittelbairisch;24;alt;_FS;Könnts net noch a Augnblikkla auf uns wartn, donn gehn ma mit eich.;la;Synthetic
+318;Ostmittelbairisch;24;alt;_DR_FS;Könnts eah nix no a Augnblikkchen auf uns wartn, dann gehn ma mit eich.;chen;Synthetic
+319;Ostmittelbairisch;24;jung;_0S;"Sicher! In meinem Dialekt würde das so klingen: 
+
+„Könnt's net noch a kleines Bisserl auf uns warten, dann gehn wir mit eich.“";IRR;Synthetic
+320;Ostmittelbairisch;24;jung;_DR_0S;„Könnt’s ihr net no a weng wart’n auf uns, dann geh’n ma mit eich.“;IRR;Synthetic
+321;Ostmittelbairisch;24;jung;_1S;Könnt's ihr net noch a Aug'nblick auf uns wart'n, dann geh'n ma mit euch.;0;Synthetic
+322;Ostmittelbairisch;24;jung;_DR_1S;Könnt's ihr ned noch a Aug'nblickl auf uns wart'n, dann geh'n wir mit eich.;(e)l;Synthetic
+323;Ostmittelbairisch;24;jung;_FS;Könnts ihr net noch a Augenblickl auf uns wartn, dann gehn ma mit eich.;(e)l;Synthetic
+324;Ostmittelbairisch;24;jung;_DR_FS;Könnts ihr ned no a Augenblickchen auf uns wartn, dann gehn ma mit eich.;chen;Synthetic
+325;Ostmittelbairisch;28;alt;_0S;"In meinem Dialekt aus Neumarkt an der Ybbs könnte der Satz so klingen:
+
+""I versteh eich net, ihr müssat a bissl lauter redn.""";(e)l;Synthetic
+326;Ostmittelbairisch;28;alt;_DR_0S;„I verstan euch ned, ihr miasst a weng lauter reden.“;IRR;Synthetic
+327;Ostmittelbairisch;28;alt;_1S;„I versteh eich ned, eich müass a bisserl lauter red’n.“;erl;Synthetic
+328;Ostmittelbairisch;28;alt;_DR_1S;I versteh eich net, eich müass a bisserl lauter redn.;erl;Synthetic
+329;Ostmittelbairisch;28;alt;_FS;Ich verstoh eich net, eich müss'n a bisserl lauter red'n.;erl;Synthetic
+330;Ostmittelbairisch;28;alt;_DR_FS;Ich versteh eich ned, ihr miass a bissal lauter red'n.;erl;Synthetic
+331;Ostmittelbairisch;28;jung;_0S;„I versteh eich net, ihr müsst a bissl lauter redn.“;(e)l;Synthetic
+332;Ostmittelbairisch;28;jung;_DR_0S;„I versteh eich ned, ihr müsst a bisserl lauter red’n.“;erl;Synthetic
+333;Ostmittelbairisch;28;jung;_1S;„I versteh eich ned, eich müsst a bisserl lauter red’n.“;erl;Synthetic
+334;Ostmittelbairisch;28;jung;_DR_1S;I versteh eich ned, ihr müßt a bisserl lauter red'n.;erl;Synthetic
+335;Ostmittelbairisch;28;jung;_FS;Ich versteh eich net, ihr müsst a bissl lauter reden.;(e)l;Synthetic
+336;Ostmittelbairisch;28;jung;_DR_FS;I versteh eich ned, ihr miass a weng lauter redn.;IRR;Synthetic
+337;Ostmittelbairisch;29;alt;_0S;Hobts es kane weißn Soafnstückl auf meim Tisch gfundn?;(e)l;Synthetic
+338;Ostmittelbairisch;29;alt;_DR_0S;Habts es koa Stuckal weiße Seifn fia mi auf meinem Tisch gfundn?;erl;Synthetic
+339;Ostmittelbairisch;29;alt;_1S;Hobts kan Stuckal weiße Soaf für mi auf mein Tisch gfundn?;erl;Synthetic
+340;Ostmittelbairisch;29;alt;_DR_1S;Hobts kane Weiße Seifn für mi auf meim Tisch gfundn?;IRR;Synthetic
+341;Ostmittelbairisch;29;alt;_FS;hobts kan stikcherl weiße seifn für mi auf meim tisch gfundn?;erl;Synthetic
+342;Ostmittelbairisch;29;alt;_DR_FS;hobts ka stückerl weiße soaf fia mi auf mein tisch gfundn?;erl;Synthetic
+343;Ostmittelbairisch;29;jung;_0S;Könnt's da nix a Stück weiße Seif' für mi auf mein'm Tisch gefunden hab'n?;0;Synthetic
+344;Ostmittelbairisch;29;jung;_DR_0S;Kummt’s ned, dass’s a Stückl weiße Seif für mi auf’m Tisch gefunden habts?;(e)l;Synthetic
+345;Ostmittelbairisch;29;jung;_1S;Habs ihr ka Stückl weiße Seif für mi auf mein’m Tischl gfunden?;(e)l;Synthetic
+346;Ostmittelbairisch;29;jung;_DR_1S;Hobts koan oanziges Stuckal weiße Seifn fia mi auf meim Tisch gfundn?;erl;Synthetic
+347;Ostmittelbairisch;29;jung;_FS;Habts ihr koans Stückl weiße Seif für mi auf meinm Tischl gefunden?;(e)l;Synthetic
+348;Ostmittelbairisch;29;jung;_DR_FS;Hobts koan briaf weiße seifn für mi auf mein tischn gfundn?;IRR;Synthetic
+349;Ostmittelbairisch;33;alt;_0S;"In meinem Dialekt aus Neumarkt an der Ybbs könnte das so klingen:
+
+""Was sitzen do für Vöglein ob'n auf'm Mauerl?""";lein;Synthetic
+350;Ostmittelbairisch;33;alt;_0S;"In meinem Dialekt aus Neumarkt an der Ybbs könnte das so klingen:
+
+""Was sitzen do für Vöglein ob'n auf'm Mauerl?""";erl;Synthetic
+351;Ostmittelbairisch;33;alt;_DR_0S;„Wos san des für Vöglein, die do ob'n auf'n Mauerl sitzn?“;lein;Synthetic
+352;Ostmittelbairisch;33;alt;_DR_0S;„Wos san des für Vöglein, die do ob'n auf'n Mauerl sitzn?“;erl;Synthetic
+353;Ostmittelbairisch;33;alt;_1S;"""Was sitzn do für Vögelcher ob'n auf'n Mäuercher?""";cher;Synthetic
+354;Ostmittelbairisch;33;alt;_1S;"""Was sitzn do für Vögelcher ob'n auf'n Mäuercher?""";cher;Synthetic
+355;Ostmittelbairisch;33;alt;_DR_1S;Was sitzn do fia Vögelchen ob'n auf’m Mäuerl?;chen;Synthetic
+356;Ostmittelbairisch;33;alt;_DR_1S;Was sitzn do fia Vögelchen ob'n auf’m Mäuerl?;erl;Synthetic
+357;Ostmittelbairisch;33;alt;_FS;Was sitzen do für Vöglein ob'n aufm Mäuerchen?;lein;Synthetic
+358;Ostmittelbairisch;33;alt;_FS;Was sitzen do für Vöglein ob'n aufm Mäuerchen?;chen;Synthetic
+359;Ostmittelbairisch;33;alt;_DR_FS;Was sessen do für Vögel oben auf’m Mäuerchen?;0;Synthetic
+360;Ostmittelbairisch;33;alt;_DR_FS;Was sessen do für Vögel oben auf’m Mäuerchen?;chen;Synthetic
+361;Ostmittelbairisch;33;jung;_0S;Wos sitzn do füa Vogerl oben aufm Mauale?;erl;Synthetic
+362;Ostmittelbairisch;33;jung;_0S;Wos sitzn do füa Vogerl oben aufm Mauale?;le;Synthetic
+363;Ostmittelbairisch;33;jung;_DR_0S;In meinem Dialekt würd das so klingen: „Wos sitzen do für Vögel oben auf da Mauer?“;0;Synthetic
+364;Ostmittelbairisch;33;jung;_1S;"""Was sitzn do füa Vogerl obm aufm Mauerl?""";erl;Synthetic
+365;Ostmittelbairisch;33;jung;_1S;"""Was sitzn do füa Vogerl obm aufm Mauerl?""";erl;Synthetic
+366;Ostmittelbairisch;33;jung;_DR_1S;Wos sitzn do für Vöglein owa auf'n Mauerl?;chen;Synthetic
+367;Ostmittelbairisch;33;jung;_DR_1S;Wos sitzn do für Vöglein owa auf'n Mauerl?;erl;Synthetic
+368;Ostmittelbairisch;33;jung;_FS;Wos sitzen do für Vögelchen ob'n auf'm Mäuerl?;chen;Synthetic
+369;Ostmittelbairisch;33;jung;_FS;Wos sitzen do für Vögelchen ob'n auf'm Mäuerl?;erl;Synthetic
+370;Ostmittelbairisch;33;jung;_DR_FS;Was sitzn do für Vögel ob'n auf'n Mauerl?;0;Synthetic
+371;Ostmittelbairisch;33;jung;_DR_FS;Was sitzn do für Vögel ob'n auf'n Mauerl?;erl;Synthetic
+372;Ostmittelbairisch;49;alt;_0S;„Die Bua’n hob’n fünf Ochs’n und neun Küah und zwölfe Schaf’n vor’s Dorf bracht, die woll’n sie verkauf’n.“;n;Synthetic
+373;Ostmittelbairisch;49;alt;_DR_0S;"Natürlich, hier ist der Satz in einem ostmittelbairischen Dialekt:
+
+""Die Buaern hab'n fünf Ochs'n und nean Küah und zwölfe Schaf'n vor's Dorf bracht, die woll'n's verkaufen.""";n;Synthetic
+374;Ostmittelbairisch;49;alt;_1S;Da Bauern hob'n fünf Ochs'n und neun Kühe und zwölf Schaf'n vor's Dorf bracht, die wull'n se verkaufen.;n;Synthetic
+375;Ostmittelbairisch;49;alt;_DR_1S;Die Bauern herten fünf Ochs’n und neun Kühe und zwölfe Schaf’n vor’s Dorf bracht, de wollten’s verkaufen.;n;Synthetic
+376;Ostmittelbairisch;49;alt;_FS;Die Boarn hab'n fünf Ochs'n und neie Küah und zwoelf Schaf'n vor's Dorf bracht, die woll'n se verkaff'n.;n;Synthetic
+377;Ostmittelbairisch;49;alt;_DR_FS;Die Buaern hom fünf Ochs'n und neig Küah und zwölfe Schaf'n vor's Dorf bracht, die woin's verkaufen.;n;Synthetic
+378;Ostmittelbairisch;49;jung;_0S;„Die Bauren hätt’n fünfe Ochsen und neune Kühe und zwölfe Schäfchen vor’s Dorf bracht, die woll’n sie verkaufen.“;chen;Synthetic
+379;Ostmittelbairisch;49;jung;_DR_0S;„Die Bauan hod'n fünf Ochs'n und neun Küah und zwölfe Schaf'n vor’s Dorf bracht, de woll'n se verkauf’n.“;n;Synthetic
+380;Ostmittelbairisch;49;jung;_1S;De Buaern haddn fünf Ochs’n und neun Kühe und zwölv Schaf’n vor’s Dorf bracht, die wolltn sie verkauf’n.;n;Synthetic
+381;Ostmittelbairisch;49;jung;_DR_1S;Die Bauern henn fünf Ochs'n und neig Küah und zwoaf Schäfchen vor's Dorf bracht, die wüdn sie verkaufen.;chen;Synthetic
+382;Ostmittelbairisch;49;jung;_FS;Die Bauern hert fünfe Ochs und neie Kühe und zwoa Schafl vor des Dorf bracht, die wölltn sie verkafn.;(e)l;Synthetic
+383;Ostmittelbairisch;49;jung;_DR_FS;Die Bauern ham fünf Ochs und neun Küah und zwölfe Schafn vor’s Dorf bracht, die woin’s verkaufen.;n;Synthetic
+384;Bairisch-Alemannisch;23;alt;_0S;„Hinter unser’m Haus stehn drei schöne Apfelbäumle mit roten Äpfeln.“;le;Synthetic
+385;Bairisch-Alemannisch;23;alt;_0S;„Hinter unser’m Haus stehn drei schöne Apfelbäumle mit roten Äpfeln.“;0;Synthetic
+386;Bairisch-Alemannisch;23;alt;_DR_0S;"In meinem Dialekt würde der Satz etwa so klingen:
+
+""Hinter unser’m Haus steh’n drei scheene Apfelbäumchen mit roten Äpfelchen.""";chen;Synthetic
+387;Bairisch-Alemannisch;23;alt;_DR_0S;"In meinem Dialekt würde der Satz etwa so klingen:
+
+""Hinter unser’m Haus steh’n drei scheene Apfelbäumchen mit roten Äpfelchen.""";chen;Synthetic
+388;Bairisch-Alemannisch;23;alt;_1S;Hinder unsrem Haus stehn drei scheene Apfelbäumli mit rotn Äpfelchen.;li;Synthetic
+389;Bairisch-Alemannisch;23;alt;_1S;Hinder unsrem Haus stehn drei scheene Apfelbäumli mit rotn Äpfelchen.;chen;Synthetic
+390;Bairisch-Alemannisch;23;alt;_DR_1S;Hinter unserm Haus stoa drei schene Apfelbäumli mit rotn Äpfelchn.;li;Synthetic
+391;Bairisch-Alemannisch;23;alt;_DR_1S;Hinter unserm Haus stoa drei schene Apfelbäumli mit rotn Äpfelchn.;chen;Synthetic
+392;Bairisch-Alemannisch;23;alt;_FS;Hinter unser’m Haus steh’n drei schene Apfelbäumle mit rotn Äpfle.;le;Synthetic
+393;Bairisch-Alemannisch;23;alt;_FS;Hinter unser’m Haus steh’n drei schene Apfelbäumle mit rotn Äpfle.;le;Synthetic
+394;Bairisch-Alemannisch;23;alt;_DR_FS;Hinta unserm Haus steha drei schene Apfelbäumle mit rotn Äpfelchen.;le;Synthetic
+395;Bairisch-Alemannisch;23;alt;_DR_FS;Hinta unserm Haus steha drei schene Apfelbäumle mit rotn Äpfelchen.;chen;Synthetic
+396;Bairisch-Alemannisch;23;jung;_0S;In meinem Dialekt könnte das so klingen: „Hinter unserm Haus stehn drei schöne Apfelbäumle mit rotn Äpfelchen.“;le;Synthetic
+397;Bairisch-Alemannisch;23;jung;_0S;In meinem Dialekt könnte das so klingen: „Hinter unserm Haus stehn drei schöne Apfelbäumle mit rotn Äpfelchen.“;chen;Synthetic
+398;Bairisch-Alemannisch;23;jung;_DR_0S;"In meinem Dialekt würde das so klingen:
+
+„Hinter unser’m Haus stehn drei schöne Apfelbäumchen mit roten Äpfelchen.“";chen;Synthetic
+399;Bairisch-Alemannisch;23;jung;_DR_0S;"In meinem Dialekt würde das so klingen:
+
+„Hinter unser’m Haus stehn drei schöne Apfelbäumchen mit roten Äpfelchen.“";chen;Synthetic
+400;Bairisch-Alemannisch;23;jung;_1S;Hinter unsrem Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+401;Bairisch-Alemannisch;23;jung;_1S;Hinter unsrem Haus stehn drei schöne Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+402;Bairisch-Alemannisch;23;jung;_DR_1S;Hinter unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+403;Bairisch-Alemannisch;23;jung;_DR_1S;Hinter unserm Haus stehn drei scheene Apfelbäumchen mit rotn Äpfelchen.;chen;Synthetic
+404;Bairisch-Alemannisch;23;jung;_FS;Hinter unserm Hous steh drei schöne Apfelbäumle mit rotn Äpfel.;le;Synthetic
+405;Bairisch-Alemannisch;23;jung;_FS;Hinter unserm Hous steh drei schöne Apfelbäumle mit rotn Äpfel.;0;Synthetic
+406;Bairisch-Alemannisch;23;jung;_DR_FS;Hinter unserm Haus stoa drei scheene Apfelbäumla mit roote Äpfla.;la;Synthetic
+407;Bairisch-Alemannisch;23;jung;_DR_FS;Hinter unserm Haus stoa drei scheene Apfelbäumla mit roote Äpfla.;la;Synthetic
+408;Bairisch-Alemannisch;24;alt;_0S;"Sicher! Im Tiroler Dialekt könnte der Satz so klingen:
+
+„Könnt's net no a Momentli auf uns wart'n, dann geh'n ma mit euch.“";IRR;Synthetic
+409;Bairisch-Alemannisch;24;alt;_DR_0S;"Natürlich! Im Dialekt aus Tarrenz könnte der Satz so klingen:
+
+„Könnt’s net no a Augenblickli auf uns wart’n, dann geh’n ma mit euch.“";li;Synthetic
+410;Bairisch-Alemannisch;24;alt;_1S;Könds ihr ned no a Aug'nblickl auf uns wart'n, dann gehn wir mit eich.;(e)l;Synthetic
+411;Bairisch-Alemannisch;24;alt;_DR_1S;"Natürlich! Hier ist die Übersetzung in meinen Dialekt:
+
+„Könnt’s net no a Aug’nblickl auf uns wart’n, dann gehn ma mit eich.“";(e)l;Synthetic
+412;Bairisch-Alemannisch;24;alt;_FS;Könnts ihr net no a Augnblikkla auf uns warta, dann gehn ma mit eich.;la;Synthetic
+413;Bairisch-Alemannisch;24;alt;_DR_FS;Könnt's ihr ned no a aug'n Blickchen auf uns wart'n, dann gehn ma mit eich.;chen;Synthetic
+414;Bairisch-Alemannisch;24;jung;_0S;Na, könnts ihr net noch a Zeitl auf uns wartn, dann gehn ma mit eich.;IRR;Synthetic
+415;Bairisch-Alemannisch;24;jung;_DR_0S;Könnts ihr net no a Aug'nblickl auf uns wart'n, dann geh'n ma mit eich.;(e)l;Synthetic
+416;Bairisch-Alemannisch;24;jung;_1S;Könnts ihr net noch a Augnbligg auf uns warta, dann gehn ma mit eich.;0;Synthetic
+417;Bairisch-Alemannisch;24;jung;_DR_1S;"Satz: Könnt ihr nicht noch ein Augenblickchen auf uns warten, dann gehn wir mit euch.
+
+Übersetzung: Kinnat ihr net noch a Augnblig auf uns wartn, dann gehn ma mit eich.";0;Synthetic
+418;Bairisch-Alemannisch;24;jung;_FS;Könnts a noch a Augenblickchen auf uns warta, dann gehma mit eich.;chen;Synthetic
+419;Bairisch-Alemannisch;24;jung;_DR_FS;Könnts ihr ned no a augenblickla auf uns wartn, dann gang ma mit eich.;la;Synthetic
+420;Bairisch-Alemannisch;28;alt;_0S;Na, i versteh eich net, ihr müßt a bissl lauter red'n.;(e)l;Synthetic
+421;Bairisch-Alemannisch;28;alt;_DR_0S;"Klar, das klingt in meinem Dialekt so: ""I versteh eich ned, ihr müsst a bisserl lauter red'n.""";erl;Synthetic
+422;Bairisch-Alemannisch;28;alt;_1S;"Satz: Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
+
+Übersetzung: I versteh eich net, ihr miasst a bisserl lauter sprecha.";erl;Synthetic
+423;Bairisch-Alemannisch;28;alt;_DR_1S;"Klar! Der Satz würde in meinem Dialekt so klingen:
+
+""I versteh eich net, ihr miasst a bissl lauter red'n.""";(e)l;Synthetic
+424;Bairisch-Alemannisch;28;alt;_FS;I versteh eich net, ihr miasst a bisserl lauter sprecha.;erl;Synthetic
+425;Bairisch-Alemannisch;28;alt;_DR_FS;I verstea eich net, ihr mueßt a bissl lauter schwadna.;(e)l;Synthetic
+426;Bairisch-Alemannisch;28;jung;_0S;Klar! Im Dialekt aus Tarrenz würde das so klingen: „I versteh euch ned, ihr müsst a bisserl lauter red’n.“;erl;Synthetic
+427;Bairisch-Alemannisch;28;jung;_DR_0S;„I versteh eich net, ihr müsst a bissl lauter red'n.“;(e)l;Synthetic
+428;Bairisch-Alemannisch;28;jung;_1S;I versteh eich ned, i muass a bisserl lauter redn.;erl;Synthetic
+429;Bairisch-Alemannisch;28;jung;_DR_1S;"Klar! Im Dialekt würd der Satz so klingen:
+
+""Ich versteh eich ned, eich müßt a bisserl lauter red'n.""";erl;Synthetic
+430;Bairisch-Alemannisch;28;jung;_FS;I versteh eich net, ihr müsst a bissl lauter redn.;(e)l;Synthetic
+431;Bairisch-Alemannisch;28;jung;_DR_FS;I versteh eich ned, ihr miasst a bisserl lauter red'n.;erl;Synthetic
+432;Bairisch-Alemannisch;29;alt;_0S;„Habts ihr ka Stück weiße Seif für mi auf mein Tischtl gefunden?“;0;Synthetic
+433;Bairisch-Alemannisch;29;alt;_DR_0S;Na, habts ihr ned a Stückl weiße Seif für mi auf meim Tisch gefunden?;(e)l;Synthetic
+434;Bairisch-Alemannisch;29;alt;_1S;"Satz: Habt ihr kein Stückchen weiße Seife für mich auf meinem Tische gefunden?
+
+Übersetzung: Habts ihr koa Stückl weiße Seife für mi auf meim Tüchel gfunda?";(e)l;Synthetic
+435;Bairisch-Alemannisch;29;alt;_DR_1S;"Kloar, i kann's für di übersetzen. Der Satz in meinem Dialekt lautet:
+
+„Hobts ihr koa Stückl weiße Seif für mi auf meinm Tisch gfundn?“";(e)l;Synthetic
+436;Bairisch-Alemannisch;29;alt;_FS;Habbt ihr koin Stückl weiße Seif für mi auf meinem Tische gfundn?;(e)l;Synthetic
+437;Bairisch-Alemannisch;29;alt;_DR_FS;Hobts ihr ka Stückl waisse Seif für mi auf meim Tisch gfundn?;(e)l;Synthetic
+438;Bairisch-Alemannisch;29;jung;_0S;"In meinem Dialekt aus Tarrenz könnte das so klingen: ""Habts ihr koa Stückli weiße Seif für mi auf meinem Tisch gfundn?""";li;Synthetic
+439;Bairisch-Alemannisch;29;jung;_DR_0S;"""Habts ihr koa Stückl weiße Seif für mi auf meim Tisch gfundn?""";(e)l;Synthetic
+440;Bairisch-Alemannisch;29;jung;_1S;Hobts ihr ka Stückl weiße Seif für mi auf mein Tis finda?;(e)l;Synthetic
+441;Bairisch-Alemannisch;29;jung;_DR_1S;Kint’s kei Stückl weiße Seif für mi auf’m Tisch gfundn?;(e)l;Synthetic
+442;Bairisch-Alemannisch;29;jung;_FS;Hobs ihr koa Stückl waisse Seife für mi auf meim Tisch gfundn?;(e)l;Synthetic
+443;Bairisch-Alemannisch;29;jung;_DR_FS;Habt ihr koa Stück weiße Seif für mi auf meinm Tisch gfundn?;0;Synthetic
+444;Bairisch-Alemannisch;33;alt;_0S;In meinem Dialekt würde der Satz etwa so klingen: „Was hockat do für Vögelcher ob'n auf'm Mäuerchen?“;cher;Synthetic
+445;Bairisch-Alemannisch;33;alt;_0S;In meinem Dialekt würde der Satz etwa so klingen: „Was hockat do für Vögelcher ob'n auf'm Mäuerchen?“;chen;Synthetic
+446;Bairisch-Alemannisch;33;alt;_DR_0S;„Was san des für Vögelein, die do oben auf'm Mäuerle sitz'n?“;lein;Synthetic
+447;Bairisch-Alemannisch;33;alt;_DR_0S;„Was san des für Vögelein, die do oben auf'm Mäuerle sitz'n?“;le;Synthetic
+448;Bairisch-Alemannisch;33;alt;_1S;Da sitzn a paar Vögelcher ob'n aufm Mäuerchen.;cher;Synthetic
+449;Bairisch-Alemannisch;33;alt;_1S;Da sitzn a paar Vögelcher ob'n aufm Mäuerchen.;chen;Synthetic
+450;Bairisch-Alemannisch;33;alt;_DR_1S;Da sitzen de Vögelcher oben auf’m Mäuerle?;cher;Synthetic
+451;Bairisch-Alemannisch;33;alt;_DR_1S;Da sitzen de Vögelcher oben auf’m Mäuerle?;le;Synthetic
+452;Bairisch-Alemannisch;33;alt;_FS;Was sitza do für Vöglecher ob’n auf’m Mäuerle?;cher;Synthetic
+453;Bairisch-Alemannisch;33;alt;_FS;Was sitza do für Vöglecher ob’n auf’m Mäuerle?;le;Synthetic
+454;Bairisch-Alemannisch;33;alt;_DR_FS;Was sitza do für Vöglcherl ob'n auf’m Mauerle?;cherl;Synthetic
+455;Bairisch-Alemannisch;33;alt;_DR_FS;Was sitza do für Vöglcherl ob'n auf’m Mauerle?;le;Synthetic
+456;Bairisch-Alemannisch;33;jung;_0S;In meinem Dialekt aus Tarrenz würde das ungefähr so klingen: „Was san do für Vögele oben aufm Mäuerle?“;le;Synthetic
+457;Bairisch-Alemannisch;33;jung;_0S;In meinem Dialekt aus Tarrenz würde das ungefähr so klingen: „Was san do für Vögele oben aufm Mäuerle?“;le;Synthetic
+458;Bairisch-Alemannisch;33;jung;_DR_0S;"Klar, im Dialekt von Tarrenz würde das so klingen:
+
+„Was sitzen denn da für Vögelchen oben auf'm Mäuerle?“";chen;Synthetic
+459;Bairisch-Alemannisch;33;jung;_DR_0S;"Klar, im Dialekt von Tarrenz würde das so klingen:
+
+„Was sitzen denn da für Vögelchen oben auf'm Mäuerle?“";le;Synthetic
+460;Bairisch-Alemannisch;33;jung;_1S;"Satz: Was sitzen da für Vögelchen oben auf dem Mäuerchen?
+
+Übersetzung: Was sitz da für Vögelei oben aufm Mauerle?";lein;Synthetic
+461;Bairisch-Alemannisch;33;jung;_1S;"Satz: Was sitzen da für Vögelchen oben auf dem Mäuerchen?
+
+Übersetzung: Was sitz da für Vögelei oben aufm Mauerle?";le;Synthetic
+462;Bairisch-Alemannisch;33;jung;_DR_1S;Was sitz'n do für Vögelchen obe auf’m Mäuerle?;cher;Synthetic
+463;Bairisch-Alemannisch;33;jung;_DR_1S;Was sitz'n do für Vögelchen obe auf’m Mäuerle?;chen;Synthetic
+464;Bairisch-Alemannisch;33;jung;_FS;Was sitzen do für Vögelcher ob'n auf’m Mäuerchen?;le;Synthetic
+465;Bairisch-Alemannisch;33;jung;_FS;Was sitzen do für Vögelcher ob'n auf’m Mäuerchen?;le;Synthetic
+466;Bairisch-Alemannisch;33;jung;_DR_FS;Was sitz'n do für Vögle oben auf'm Mauerle?;le;Synthetic
+467;Bairisch-Alemannisch;33;jung;_DR_FS;Was sitz'n do für Vögle oben auf'm Mauerle?;le;Synthetic
+468;Bairisch-Alemannisch;49;alt;_0S;"In meinem Dialekt würde das ungefähr so klingen:
+
+„Die Baur’n hätt’n fünf Ochsen und neun Kühe und zwölf Schäfchen vor’s Dorf bracht, die woll’n sie verkaffen.“";chen;Synthetic
+469;Bairisch-Alemannisch;49;alt;_DR_0S;"Klar! Hier wäre der Satz auf einem bairisch-alemannischen Dialekt:
+
+„Die Bauern ham fünf Ochs und neun Küah und zwölfe Schaf vor’s Dorf bracht, die woll’n se verkaufen.“";0;Synthetic
+470;Bairisch-Alemannisch;49;alt;_1S;"Gern! Hier ist die Übersetzung in den Dialekt:
+
+„De Bauern henn fünf Ochs und neun Küah und zwoelf Schafle vor s' Dorf bracht, die wolltn se verkaufen.“";le;Synthetic
+471;Bairisch-Alemannisch;49;alt;_DR_1S;Die Baua hätt'n fünfe Ochsa und neun Kühe und zwölfe Schäfla vor's Dorf bracht, die wüll'n sie verkauf'n.;la;Synthetic
+472;Bairisch-Alemannisch;49;alt;_FS;Die Bauern henn füf Ochs'n und neich Küah und zwölf Schäfchen vor's Dorf bracht, die wölltn se verkafo.;chen;Synthetic
+473;Bairisch-Alemannisch;49;alt;_DR_FS;Die Bauer henn fünf Ochs'n und neih Küah und zwölfe Schafle vor's Dorf bringa, die wöll'n s' verkaffa.;le;Synthetic
+474;Bairisch-Alemannisch;49;jung;_0S;"Klar! Im Tiroler Dialekt würde das so klingen:
+
+„Die Bauern haben fünf Ochsen und neun Kühe und zwölf Schaferl vor’s Dorf gebracht, die wollten sie verkaufen.“";erl;Synthetic
+475;Bairisch-Alemannisch;49;jung;_DR_0S;"In meinem Dialekt würde das so klingen: 
+
+„Die Baua hätt’n fünf Ochs und neun Küah und zwölf Schaf vor d’Dorf bracht, die wöll’n se verkauf’n.“";0;Synthetic
+476;Bairisch-Alemannisch;49;jung;_1S;Die Bauern hätt’n fünf Ochs’n und neine Küah und zwölfe Schaf’n vor’s Dorf bracht, die wöll’n sie verkaufen.;n;Synthetic
+477;Bairisch-Alemannisch;49;jung;_DR_1S;Die Bauan hom fünf Ochs und neun Kühe und zwoa Zwergl vor's Dorf bracht, die wollt'n se verkauf'n.;IRR;Synthetic
+478;Bairisch-Alemannisch;49;jung;_FS;Die Bauern hätt'n fünf Ochs'n und neun Küah und zwölfe Schafle vor's Dorf bracht, die wollt'n se verkaufen.;le;Synthetic
+479;Bairisch-Alemannisch;49;jung;_DR_FS;D' Baua hom fünf Ochs und neia Kühe und zwöaf Schafle vor's Dorf bracht, die woin's verkaffa.;le;Synthetic
+480;Alemannisch;23;alt;_0S;Hinter ünserem Huus stion drei schiane Öpfelbömli mit roate Öpfli.;li;Synthetic
+481;Alemannisch;23;alt;_0S;Hinter ünserem Huus stion drei schiane Öpfelbömli mit roate Öpfli.;li;Synthetic
+482;Alemannisch;23;alt;_DR_0S;Hinter üsarem Huus stoh drei schöni Öpfelbömli mit rote Öpfel.;li;Synthetic
+483;Alemannisch;23;alt;_DR_0S;Hinter üsarem Huus stoh drei schöni Öpfelbömli mit rote Öpfel.;li;Synthetic
+484;Alemannisch;23;alt;_1S;Hintar unserm Hus stiat drei schöna Apfelbömle mit rote Äpfle.;le;Synthetic
+485;Alemannisch;23;alt;_1S;Hintar unserm Hus stiat drei schöna Apfelbömle mit rote Äpfle.;0;Synthetic
+486;Alemannisch;23;alt;_DR_1S;Hintar unzrem Huus stöhnd drei schöni Öpfelböimle mit rote Öpfelkle.;le;Synthetic
+487;Alemannisch;23;alt;_DR_1S;Hintar unzrem Huus stöhnd drei schöni Öpfelböimle mit rote Öpfelkle.;le;Synthetic
+488;Alemannisch;23;alt;_FS;hintar unserm huscht stöhnd drei schöna apflbömle mit roata apflechle.;le;Synthetic
+489;Alemannisch;23;alt;_FS;hintar unserm huscht stöhnd drei schöna apflbömle mit roata apflechle.;echle;Synthetic
+490;Alemannisch;23;alt;_DR_FS;Hintar üsaram Huus stoh drei schöni Öpflebömle mit röta Öpfle.;le;Synthetic
+491;Alemannisch;23;alt;_DR_FS;Hintar üsaram Huus stoh drei schöni Öpflebömle mit röta Öpfle.;le;Synthetic
+492;Alemannisch;23;jung;_0S;Hinter üsrem Huus stöt drei schöane Öpfelbömle mit rôte Öpfle.;le;Synthetic
+493;Alemannisch;23;jung;_0S;Hinter üsrem Huus stöt drei schöane Öpfelbömle mit rôte Öpfle.;le;Synthetic
+494;Alemannisch;23;jung;_DR_0S;Hinter üsrem Huus stönd drei schöni Öpfelbömli mit rote Öpfel.;li;Synthetic
+495;Alemannisch;23;jung;_DR_0S;Hinter üsrem Huus stönd drei schöni Öpfelbömli mit rote Öpfel.;0;Synthetic
+496;Alemannisch;23;jung;_1S;Hintar ünsaram Hüsle stian drei schiane Öpfelbömle mit roata Öpfel.;le;Synthetic
+497;Alemannisch;23;jung;_1S;Hintar ünsaram Hüsle stian drei schiane Öpfelbömle mit roata Öpfel.;0;Synthetic
+498;Alemannisch;23;jung;_DR_1S;Hinder unserm Huus stoa drei schöne Apfelbäumle mit rotn Äpfelchen.;le;Synthetic
+499;Alemannisch;23;jung;_DR_1S;Hinder unserm Huus stoa drei schöne Apfelbäumle mit rotn Äpfelchen.;chen;Synthetic
+500;Alemannisch;23;jung;_FS;Hinta unserm husch stoht drei schöna apfelbömle mit roata apfle.;le;Synthetic
+501;Alemannisch;23;jung;_FS;Hinta unserm husch stoht drei schöna apfelbömle mit roata apfle.;chen;Synthetic
+502;Alemannisch;23;jung;_DR_FS;Hinter unserm Huus steha drei schöne Apfelbäumla mit roote Äpfla.;la;Synthetic
+503;Alemannisch;23;jung;_DR_FS;Hinter unserm Huus steha drei schöne Apfelbäumla mit roote Äpfla.;la;Synthetic
+504;Alemannisch;24;alt;_0S;"Im Raggaler Dialekt könnte man das so übersetzen:
+
+„Könnt ihr net no a Momentle auf uns warten, dann ganga mir mit eich.“";IRR;Synthetic
+505;Alemannisch;24;alt;_DR_0S;Könntet ihr net no es Augenzwickli uf üs wartä, dann göng ma mit eich.;li;Synthetic
+506;Alemannisch;24;alt;_1S;Könnt ihr ned no a Augenblick auf uns wart'n, dann gang'n mir mit eich.;0;Synthetic
+507;Alemannisch;24;alt;_DR_1S;Könnts ihr ned no e Augäblickchen uf uns wartä, denn ganga mir mit eich.;chen;Synthetic
+508;Alemannisch;24;alt;_FS;Könnts a noch a Augnblickchen auf üs wartä, denn gehn mir mit eich.;chen;Synthetic
+509;Alemannisch;24;alt;_DR_FS;Könd ihr nüd no a Auga-Blickla uf uns wartä, denn gehn mir mit öich.;la;Synthetic
+510;Alemannisch;24;jung;_0S;Könnt's nitt a bissle auf uns warten, dann gehn wir mit euch.;IRR;Synthetic
+511;Alemannisch;24;jung;_DR_0S;"Natürlich! Auf Raggal-Alemannisch könnte das so klingen: 
+
+„Könnt ihr net no a Auga-Blickle uf uns wartä, denn gehn mir mit eich.“";le;Synthetic
+512;Alemannisch;24;jung;_1S;S_kriea net no a Auga blika auf üs warta, denn gea mir mit eich.;a;Synthetic
+513;Alemannisch;24;jung;_DR_1S;Könnt's ihr nöd no e Augäbliggle auf üs wartä, denn göh mir mit euch.;le;Synthetic
+514;Alemannisch;24;jung;_FS;Könnt's ihr ned noch a Augenblickchen auf uns wart'n, denn ganga mir mit eich.;chen;Synthetic
+515;Alemannisch;24;jung;_DR_FS;Könnt ihr ned no a Augablick auf uns wartä, denn gang ma mit eich.;0;Synthetic
+516;Alemannisch;28;alt;_0S;"In Raggal, einem Ort in Vorarlberg, würde der Satz wahrscheinlich so klingen:
+
+""Ich versteh euch ned, ihr müsst a bissle lauter red'n.""";le;Synthetic
+517;Alemannisch;28;alt;_DR_0S;"Natürlich! Im Alemannischen Dialekt aus Raggal könnte man sagen:
+
+""Ich verstoh eich net, ihr müsst a bissle lauter redä.""";le;Synthetic
+518;Alemannisch;28;alt;_1S;"Klar, hier ist die Übersetzung in den Dialekt von Raggal:
+
+""Ich versteh euch ned, ihr miasst a bissl lauter reda.""";(e)l;Synthetic
+519;Alemannisch;28;alt;_DR_1S;Ich versteh euch net, ihr müsst a bissle lauter schwätze.;le;Synthetic
+520;Alemannisch;28;alt;_FS;Ich versteh eich ned, ihr müaß a bisserl lauta redn.;erl;Synthetic
+521;Alemannisch;28;alt;_DR_FS;I versteha eich nöd, ihr mösst a bissle lauter reda.;le;Synthetic
+522;Alemannisch;28;jung;_0S;„I verstoh euch net, ihr müsst a bissle lauter redn.“;le;Synthetic
+523;Alemannisch;28;jung;_DR_0S;„I versteh euch nöd, ihr müsst a bissle lauter redä.“;le;Synthetic
+524;Alemannisch;28;jung;_1S;„I versteh eich net, eich müass a bisserl lauter redn.“;erl;Synthetic
+525;Alemannisch;28;jung;_DR_1S;I versteh eich ned, ihr müßt a bissl lauter redä.;(e)l;Synthetic
+526;Alemannisch;28;jung;_FS;Ich versteh eich net, ihr müsst a bissle lauter red’n.;le;Synthetic
+527;Alemannisch;28;jung;_DR_FS;Ich versteh eich net, ihr müass a bissle lauter reda.;le;Synthetic
+528;Alemannisch;29;alt;_0S;Hond ihr ka kluars Stückle weißi Seife uf meim Tisch gfunda?;le;Synthetic
+529;Alemannisch;29;alt;_DR_0S;"In meinem Dialekt würde der Satz ungefähr so klingen:
+
+""Häts ihr kei Stückle weiße Seif für mi auf mim Tisch gfunde?""";le;Synthetic
+530;Alemannisch;29;alt;_1S;S_habt ir koin Stückle weiße Seif für mi auf meim Tische gfunde?;le;Synthetic
+531;Alemannisch;29;alt;_DR_1S;S'henkt ihr koa Stückli wäissi Seif für mi uf meinem Tisch gfunda?;li;Synthetic
+532;Alemannisch;29;alt;_FS;Habt's ihr koan Stückli weiße Seif für mi auf mein'm Tische gfunda?;li;Synthetic
+533;Alemannisch;29;alt;_DR_FS;Hobts kei Stück weiße Seif für mi uf mim Tisch gfunde?;0;Synthetic
+534;Alemannisch;29;jung;_0S;Hoscht koin klains Stiackl weiße Seife für mi uf meim Tisch gfunda?;(e)l;Synthetic
+535;Alemannisch;29;jung;_DR_0S;He, hät dir kei Stuckli wiassi Seifa für mi uf mim Tisch gfunna?;li;Synthetic
+536;Alemannisch;29;jung;_1S;Hebet's ka schbätzli weiße seifa für mi uf am tisch gfundn?;IRR;Synthetic
+537;Alemannisch;29;jung;_DR_1S;Händ ihr kei Stückle weißi Seafa für mi uf minem Tisch gfunda?;le;Synthetic
+538;Alemannisch;29;jung;_FS;händ ihr kains stickli wiassa seifa uf minam tisch gfunda?;li;Synthetic
+539;Alemannisch;29;jung;_DR_FS;hond ihr koin stickli wiassa seifa für mi uf minam tischa gfunda?;li;Synthetic
+540;Alemannisch;33;alt;_0S;In meinem Dialekt aus Raggal könnte das so klingen: „Was saß'n denn da für Vögelcher oben auf'm Mäuerle?“;cher;Synthetic
+541;Alemannisch;33;alt;_0S;In meinem Dialekt aus Raggal könnte das so klingen: „Was saß'n denn da für Vögelcher oben auf'm Mäuerle?“;le;Synthetic
+542;Alemannisch;33;alt;_DR_0S;"In Raggal, einem Alemannischen Dialekt, könnte das so klingen:
+
+„Was sitzet denn do für Vögelcher obä ufem Mäuerle?“";cher;Synthetic
+543;Alemannisch;33;alt;_DR_0S;"In Raggal, einem Alemannischen Dialekt, könnte das so klingen:
+
+„Was sitzet denn do für Vögelcher obä ufem Mäuerle?“";le;Synthetic
+544;Alemannisch;33;alt;_1S;"Satz: Was sitzen da für Vögelchen oben auf dem Mäuerchen?
+
+Übersetzung: Was sitzad do für Vögelcher ob’n auf’m Mäuerla?";cher;Synthetic
+545;Alemannisch;33;alt;_1S;"Satz: Was sitzen da für Vögelchen oben auf dem Mäuerchen?
+
+Übersetzung: Was sitzad do für Vögelcher ob’n auf’m Mäuerla?";la;Synthetic
+546;Alemannisch;33;alt;_DR_1S;"Satz: Was sitzen da für Vögelchen oben auf dem Mäuerchen?
+
+Übersetzung: Was sitza da für Vögl oba auf’m Mäuerle?";0;Synthetic
+547;Alemannisch;33;alt;_DR_1S;"Satz: Was sitzen da für Vögelchen oben auf dem Mäuerchen?
+
+Übersetzung: Was sitza da für Vögl oba auf’m Mäuerle?";le;Synthetic
+548;Alemannisch;33;alt;_FS;Was sizzet do für Vögle oben uf’m Mauerle?;le;Synthetic
+549;Alemannisch;33;alt;_FS;Was sizzet do für Vögle oben uf’m Mauerle?;le;Synthetic
+550;Alemannisch;33;alt;_DR_FS;Was sitza do für Vögla obaa uf em Mäuerli?;la;Synthetic
+551;Alemannisch;33;alt;_DR_FS;Was sitza do für Vögla obaa uf em Mäuerli?;li;Synthetic
+552;Alemannisch;33;jung;_0S;In meinem Dialekt aus Raggal könnte das etwa so klingen: „Was hocka da für Vögelchen ob’n auf’m Mäuerli?“;chen;Synthetic
+553;Alemannisch;33;jung;_0S;In meinem Dialekt aus Raggal könnte das etwa so klingen: „Was hocka da für Vögelchen ob’n auf’m Mäuerli?“;li;Synthetic
+554;Alemannisch;33;jung;_DR_0S;In Raggal würde das so klingen: „Was sitzen do für Vögelche oben uf em Mäuerle?“;che;Synthetic
+555;Alemannisch;33;jung;_DR_0S;In Raggal würde das so klingen: „Was sitzen do für Vögelche oben uf em Mäuerle?“;le;Synthetic
+556;Alemannisch;33;jung;_1S;Sitzat do für Vögelchn oben auf’m Mäuerla?;chen;Synthetic
+557;Alemannisch;33;jung;_1S;Sitzat do für Vögelchn oben auf’m Mäuerla?;la;Synthetic
+558;Alemannisch;33;jung;_DR_1S;Was sitza do für Vögelcher oba auf’m Mäuerle?;cher;Synthetic
+559;Alemannisch;33;jung;_DR_1S;Was sitza do für Vögelcher oba auf’m Mäuerle?;le;Synthetic
+560;Alemannisch;33;jung;_FS;Was sitza do fia Vögl oben auf’m Mäuerla?;0;Synthetic
+561;Alemannisch;33;jung;_FS;Was sitza do fia Vögl oben auf’m Mäuerla?;la;Synthetic
+562;Alemannisch;33;jung;_DR_FS;Was sitza do für Vögle oben uf’m Mäuerle?;le;Synthetic
+563;Alemannisch;33;jung;_DR_FS;Was sitza do für Vögle oben uf’m Mäuerle?;le;Synthetic
+564;Alemannisch;49;alt;_0S;„Die Bauren hatten fünfe Ochs und neune Küah und zwölfe Schafle vor's Dorf bracht, die wollten sie verkaffe.“;le;Synthetic
+565;Alemannisch;49;alt;_DR_0S;"Sicher, hier ist der Satz im Alemannischen Dialekt:
+
+„D’Bauern händ fünf Ochse und neun Kühe und zwöi Schafli vor’s Dorf bracht, die wänd sie verkaufä.“";li;Synthetic
+566;Alemannisch;49;alt;_1S;Da Bauern henn füf Ochs und neun Kih und zwölfe Schäfla vor s_Dorf bracht, die wölltn se verkaffa.;la;Synthetic
+567;Alemannisch;49;alt;_DR_1S;S_die Baua henn fünfa Ocha und neuna Küah und zwölfa Schäfla vor s'Dorf bracht, die wend sie verkaufa.;la;Synthetic
+568;Alemannisch;49;alt;_FS;Die Baua hätt'n fünf Ochs'n und neun Küah und zwölb Schafli vor s'Dorf bracht, die wöll'n se verkaufen.;li;Synthetic
+569;Alemannisch;49;alt;_DR_FS;Die Bauern hätat füf Ochs und nün Küah und zwöl Schäfli vor s Dorf bracht, die wöitat si verkaufä.;li;Synthetic
+570;Alemannisch;49;jung;_0S;"In meinem Raggaler Dialekt würde das so klingen: 
+
+„D’Bauern henn fünf Ochs und neun Küah und zwölfe Schöf vor s’Dorf bracht, die wölltn sie verkaff’n.“";0;Synthetic
+571;Alemannisch;49;jung;_DR_0S;"In Raggal würde das ungefähr so klingen:
+
+""Di Bauern henn fünf Ochsen und neun Kühe und zwölfe Schäfle vor s’Dorf bracht, die wöllen sie verkaufä.""";le;Synthetic
+572;Alemannisch;49;jung;_1S;Die Bauern hätt’n fünf Ochsa und neun Kühe und zwölfe Schafli vor s’Dorf bracht, die wölla se verchauf’n.;li;Synthetic
+573;Alemannisch;49;jung;_DR_1S;Die Baua händ fün Ochsa und nün Küah und zwöl Schäfli vor s'Dorf bracht, die wänd s'verkaufä.;li;Synthetic
+574;Alemannisch;49;jung;_FS;Die Boarn henn fünf Ochs und neun Küah und zwölf Schäfla vor s Dorf bracht, die wolla se verkaffa.;la;Synthetic
+575;Alemannisch;49;jung;_DR_FS;Die Bauer händ fünf Ochsa und neun Küah und zwöf Schäfla vor s Dorf bracht, die wänd se verkaufä.;la;Synthetic
